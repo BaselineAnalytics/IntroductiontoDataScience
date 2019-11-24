@@ -1,5 +1,5 @@
 user = "root"
-passwd = "19950513Gary!"
+passwd = ""
 host =  "localhost"
 port = 3306
-database = "DBHW3"
+database = ""
