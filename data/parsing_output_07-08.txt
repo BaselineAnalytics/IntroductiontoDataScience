@@ -1,0 +1,5388 @@
+THIS IS NUMBER  1
+Request #1
+(16, 26)
+THIS IS NUMBER  2
+Request #2
+(31, 26)
+THIS IS NUMBER  3
+Request #3
+(44, 26)
+THIS IS NUMBER  4
+Request #4
+(54, 26)
+THIS IS NUMBER  5
+Request #5
+(79, 26)
+THIS IS NUMBER  6
+Request #6
+(99, 26)
+THIS IS NUMBER  7
+Request #7
+(120, 26)
+THIS IS NUMBER  8
+Request #8
+(135, 26)
+THIS IS NUMBER  9
+Request #9
+(154, 26)
+THIS IS NUMBER  10
+Request #10
+(174, 26)
+THIS IS NUMBER  11
+Request #11
+(187, 26)
+THIS IS NUMBER  12
+Request #12
+(209, 26)
+THIS IS NUMBER  13
+Request #13
+(228, 26)
+THIS IS NUMBER  14
+Request #14
+(253, 26)
+THIS IS NUMBER  15
+Request #15
+(278, 26)
+THIS IS NUMBER  16
+Request #16
+(295, 26)
+THIS IS NUMBER  17
+Request #17
+(313, 26)
+THIS IS NUMBER  18
+Request #18
+(338, 26)
+THIS IS NUMBER  19
+Request #19
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612737&DateFrom=Apr%2F26%2F2008&DateTo=04%2F27%2F2008
+Apr 26 2008
+THIS IS NUMBER  20
+Request #20
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612737&DateFrom=Apr%2F28%2F2008&DateTo=04%2F29%2F2008
+Apr 28 2008
+THIS IS NUMBER  21
+Request #21
+(357, 26)
+THIS IS NUMBER  22
+Request #22
+(367, 26)
+THIS IS NUMBER  23
+Request #23
+(392, 26)
+THIS IS NUMBER  24
+Request #24
+(407, 26)
+THIS IS NUMBER  25
+Request #25
+(421, 26)
+THIS IS NUMBER  26
+Request #26
+(436, 26)
+THIS IS NUMBER  27
+Request #27
+(454, 26)
+THIS IS NUMBER  28
+Request #28
+(467, 26)
+THIS IS NUMBER  29
+Request #29
+(492, 26)
+THIS IS NUMBER  30
+Request #30
+(517, 26)
+THIS IS NUMBER  31
+Request #31
+(531, 26)
+THIS IS NUMBER  32
+Request #32
+(556, 26)
+THIS IS NUMBER  33
+Request #33
+(570, 26)
+THIS IS NUMBER  34
+Request #34
+(585, 26)
+THIS IS NUMBER  35
+Request #35
+(610, 26)
+THIS IS NUMBER  36
+Request #36
+(624, 26)
+THIS IS NUMBER  37
+Request #37
+(641, 26)
+THIS IS NUMBER  38
+Request #38
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612737&DateFrom=Feb%2F4%2F2008&DateTo=02%2F05%2F2008
+Feb 4 2008
+THIS IS NUMBER  39
+Request #39
+(655, 26)
+THIS IS NUMBER  40
+Request #40
+(671, 26)
+THIS IS NUMBER  41
+Request #41
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612737&DateFrom=May%2F2%2F2008&DateTo=05%2F03%2F2008
+May 2 2008
+THIS IS NUMBER  42
+Request #42
+(682, 26)
+THIS IS NUMBER  43
+Request #43
+(700, 26)
+THIS IS NUMBER  44
+Request #44
+(716, 26)
+THIS IS NUMBER  45
+Request #45
+(730, 26)
+THIS IS NUMBER  46
+Request #46
+(748, 26)
+THIS IS NUMBER  47
+Request #47
+(764, 26)
+THIS IS NUMBER  48
+Request #48
+(789, 26)
+THIS IS NUMBER  49
+Request #49
+(804, 26)
+THIS IS NUMBER  50
+Request #50
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612738&DateFrom=Apr%2F20%2F2008&DateTo=04%2F21%2F2008
+Apr 20 2008
+THIS IS NUMBER  51
+Request #51
+(829, 26)
+THIS IS NUMBER  52
+Request #52
+(841, 26)
+THIS IS NUMBER  53
+Request #53
+(851, 26)
+THIS IS NUMBER  54
+Request #54
+(868, 26)
+THIS IS NUMBER  55
+Request #55
+(890, 26)
+THIS IS NUMBER  56
+Request #56
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612738&DateFrom=Jun%2F17%2F2008&DateTo=06%2F18%2F2008
+Jun 17 2008
+THIS IS NUMBER  57
+Request #57
+(908, 26)
+THIS IS NUMBER  58
+Request #58
+(933, 26)
+THIS IS NUMBER  59
+Request #59
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612738&DateFrom=Jun%2F5%2F2008&DateTo=06%2F06%2F2008
+Jun 5 2008
+THIS IS NUMBER  60
+Request #60
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612738&DateFrom=Apr%2F30%2F2008&DateTo=05%2F01%2F2008
+Apr 30 2008
+THIS IS NUMBER  61
+Request #61
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612738&DateFrom=Apr%2F23%2F2008&DateTo=04%2F24%2F2008
+Apr 23 2008
+THIS IS NUMBER  62
+Request #62
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612738&DateFrom=Jun%2F8%2F2008&DateTo=06%2F09%2F2008
+Jun 8 2008
+THIS IS NUMBER  63
+Request #63
+(948, 26)
+THIS IS NUMBER  64
+Request #64
+(968, 26)
+THIS IS NUMBER  65
+Request #65
+(987, 26)
+THIS IS NUMBER  66
+Request #66
+(1007, 26)
+THIS IS NUMBER  67
+Request #67
+(1028, 26)
+THIS IS NUMBER  68
+Request #68
+(1052, 26)
+THIS IS NUMBER  69
+Request #69
+(1077, 26)
+THIS IS NUMBER  70
+Request #70
+(1095, 26)
+THIS IS NUMBER  71
+Request #71
+(1113, 26)
+THIS IS NUMBER  72
+Request #72
+(1138, 26)
+THIS IS NUMBER  73
+Request #73
+(1163, 26)
+THIS IS NUMBER  74
+Request #74
+(1181, 26)
+THIS IS NUMBER  75
+Request #75
+(1195, 26)
+THIS IS NUMBER  76
+Request #76
+(1211, 26)
+THIS IS NUMBER  77
+Request #77
+(1227, 26)
+THIS IS NUMBER  78
+Request #78
+(1246, 26)
+THIS IS NUMBER  79
+Request #79
+(1271, 26)
+THIS IS NUMBER  80
+Request #80
+(1284, 26)
+THIS IS NUMBER  81
+Request #81
+(1300, 26)
+THIS IS NUMBER  82
+Request #82
+(1319, 26)
+THIS IS NUMBER  83
+Request #83
+(1343, 26)
+THIS IS NUMBER  84
+Request #84
+(1365, 26)
+THIS IS NUMBER  85
+Request #85
+(1390, 26)
+THIS IS NUMBER  86
+Request #86
+(1407, 26)
+THIS IS NUMBER  87
+Request #87
+(1417, 26)
+THIS IS NUMBER  88
+Request #88
+(1435, 26)
+THIS IS NUMBER  89
+Request #89
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612738&DateFrom=May%2F14%2F2008&DateTo=05%2F15%2F2008
+May 14 2008
+THIS IS NUMBER  90
+Request #90
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612738&DateFrom=May%2F4%2F2008&DateTo=05%2F05%2F2008
+May 4 2008
+THIS IS NUMBER  91
+Request #91
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612738&DateFrom=Apr%2F11%2F2008&DateTo=04%2F12%2F2008
+Apr 11 2008
+THIS IS NUMBER  92
+Request #92
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612738&DateFrom=May%2F8%2F2008&DateTo=05%2F09%2F2008
+May 8 2008
+THIS IS NUMBER  93
+Request #93
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612738&DateFrom=May%2F6%2F2008&DateTo=05%2F07%2F2008
+May 6 2008
+THIS IS NUMBER  94
+Request #94
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612738&DateFrom=May%2F18%2F2008&DateTo=05%2F19%2F2008
+May 18 2008
+THIS IS NUMBER  95
+Request #95
+(1455, 26)
+THIS IS NUMBER  96
+Request #96
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612738&DateFrom=May%2F20%2F2008&DateTo=05%2F21%2F2008
+May 20 2008
+THIS IS NUMBER  97
+Request #97
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612738&DateFrom=May%2F28%2F2008&DateTo=05%2F29%2F2008
+May 28 2008
+THIS IS NUMBER  98
+Request #98
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612738&DateFrom=May%2F22%2F2008&DateTo=05%2F23%2F2008
+May 22 2008
+THIS IS NUMBER  99
+Request #99
+(1476, 26)
+THIS IS NUMBER  100
+Request #100
+(1493, 26)
+THIS IS NUMBER  101
+Request #101
+(1518, 26)
+THIS IS NUMBER  102
+Request #102
+(1531, 26)
+THIS IS NUMBER  103
+Request #103
+(1545, 26)
+THIS IS NUMBER  104
+Request #104
+(1561, 26)
+THIS IS NUMBER  105
+Request #105
+(1578, 26)
+THIS IS NUMBER  106
+Request #106
+(1588, 26)
+THIS IS NUMBER  107
+Request #107
+(1608, 26)
+THIS IS NUMBER  108
+Request #108
+(1633, 26)
+THIS IS NUMBER  109
+Request #109
+(1657, 26)
+THIS IS NUMBER  110
+Request #110
+(1674, 26)
+THIS IS NUMBER  111
+Request #111
+(1683, 26)
+THIS IS NUMBER  112
+Request #112
+(1694, 26)
+THIS IS NUMBER  113
+Request #113
+(1703, 26)
+THIS IS NUMBER  114
+Request #114
+(1722, 26)
+THIS IS NUMBER  115
+Request #115
+(1740, 26)
+THIS IS NUMBER  116
+Request #116
+(1752, 26)
+THIS IS NUMBER  117
+Request #117
+(1768, 26)
+THIS IS NUMBER  118
+Request #118
+(1779, 26)
+THIS IS NUMBER  119
+Request #119
+(1800, 26)
+THIS IS NUMBER  120
+Request #120
+(1810, 26)
+THIS IS NUMBER  121
+Request #121
+(1832, 26)
+THIS IS NUMBER  122
+Request #122
+(1857, 26)
+THIS IS NUMBER  123
+Request #123
+(1874, 26)
+THIS IS NUMBER  124
+Request #124
+(1892, 26)
+THIS IS NUMBER  125
+Request #125
+(1916, 26)
+THIS IS NUMBER  126
+Request #126
+(1935, 26)
+THIS IS NUMBER  127
+Request #127
+(1951, 26)
+THIS IS NUMBER  128
+Request #128
+(1965, 26)
+THIS IS NUMBER  129
+Request #129
+(1983, 26)
+THIS IS NUMBER  130
+Request #130
+(2008, 26)
+THIS IS NUMBER  131
+Request #131
+(2033, 26)
+THIS IS NUMBER  132
+Request #132
+(2052, 26)
+THIS IS NUMBER  133
+Request #133
+(2071, 26)
+THIS IS NUMBER  134
+Request #134
+(2096, 26)
+THIS IS NUMBER  135
+Request #135
+(2111, 26)
+THIS IS NUMBER  136
+Request #136
+(2134, 26)
+THIS IS NUMBER  137
+Request #137
+(2145, 26)
+THIS IS NUMBER  138
+Request #138
+(2161, 26)
+THIS IS NUMBER  139
+Request #139
+(2172, 26)
+THIS IS NUMBER  140
+Request #140
+(2187, 26)
+THIS IS NUMBER  141
+Request #141
+(2206, 26)
+THIS IS NUMBER  142
+Request #142
+(2223, 26)
+THIS IS NUMBER  143
+Request #143
+(2236, 26)
+THIS IS NUMBER  144
+Request #144
+(2249, 26)
+THIS IS NUMBER  145
+Request #145
+(2274, 26)
+THIS IS NUMBER  146
+Request #146
+(2290, 26)
+THIS IS NUMBER  147
+Request #147
+(2315, 26)
+THIS IS NUMBER  148
+Request #148
+(2334, 26)
+THIS IS NUMBER  149
+Request #149
+(2354, 26)
+THIS IS NUMBER  150
+Request #150
+(2376, 26)
+THIS IS NUMBER  151
+Request #151
+(2387, 26)
+THIS IS NUMBER  152
+Request #152
+(2401, 26)
+THIS IS NUMBER  153
+Request #153
+(2418, 26)
+THIS IS NUMBER  154
+Request #154
+(2435, 26)
+THIS IS NUMBER  155
+Request #155
+(2450, 26)
+THIS IS NUMBER  156
+Request #156
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612741&DateFrom=Jan%2F19%2F2008&DateTo=01%2F20%2F2008
+Jan 19 2008
+THIS IS NUMBER  157
+Request #157
+(2475, 26)
+THIS IS NUMBER  158
+Request #158
+(2491, 26)
+THIS IS NUMBER  159
+Request #159
+(2516, 26)
+THIS IS NUMBER  160
+Request #160
+(2536, 26)
+THIS IS NUMBER  161
+Request #161
+(2561, 26)
+THIS IS NUMBER  162
+Request #162
+(2578, 26)
+THIS IS NUMBER  163
+Request #163
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612741&DateFrom=Dec%2F8%2F2007&DateTo=12%2F09%2F2007
+Dec 8 2007
+THIS IS NUMBER  164
+Request #164
+(2596, 26)
+THIS IS NUMBER  165
+Request #165
+(2613, 26)
+THIS IS NUMBER  166
+Request #166
+(2636, 26)
+THIS IS NUMBER  167
+Request #167
+(2655, 26)
+THIS IS NUMBER  168
+Request #168
+(2680, 26)
+THIS IS NUMBER  169
+Request #169
+(2692, 26)
+THIS IS NUMBER  170
+Request #170
+(2707, 26)
+THIS IS NUMBER  171
+Request #171
+(2722, 26)
+THIS IS NUMBER  172
+Request #172
+(2747, 26)
+THIS IS NUMBER  173
+Request #173
+(2759, 26)
+THIS IS NUMBER  174
+Request #174
+(2784, 26)
+THIS IS NUMBER  175
+Request #175
+(2805, 26)
+THIS IS NUMBER  176
+Request #176
+(2824, 26)
+THIS IS NUMBER  177
+Request #177
+(2840, 26)
+THIS IS NUMBER  178
+Request #178
+(2854, 26)
+THIS IS NUMBER  179
+Request #179
+(2865, 26)
+THIS IS NUMBER  180
+Request #180
+(2877, 26)
+THIS IS NUMBER  181
+Request #181
+(2894, 26)
+THIS IS NUMBER  182
+Request #182
+(2919, 26)
+THIS IS NUMBER  183
+Request #183
+(2936, 26)
+THIS IS NUMBER  184
+Request #184
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612739&DateFrom=Apr%2F19%2F2008&DateTo=04%2F20%2F2008
+Apr 19 2008
+THIS IS NUMBER  185
+Request #185
+(2958, 26)
+THIS IS NUMBER  186
+Request #186
+(2975, 26)
+THIS IS NUMBER  187
+Request #187
+(2992, 26)
+THIS IS NUMBER  188
+Request #188
+(3007, 26)
+THIS IS NUMBER  189
+Request #189
+(3020, 26)
+THIS IS NUMBER  190
+Request #190
+(3039, 26)
+THIS IS NUMBER  191
+Request #191
+(3055, 26)
+THIS IS NUMBER  192
+Request #192
+(3068, 26)
+THIS IS NUMBER  193
+Request #193
+(3084, 26)
+THIS IS NUMBER  194
+Request #194
+(3099, 26)
+THIS IS NUMBER  195
+Request #195
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612739&DateFrom=Apr%2F30%2F2008&DateTo=05%2F01%2F2008
+Apr 30 2008
+THIS IS NUMBER  196
+Request #196
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612739&DateFrom=Apr%2F3%2F2008&DateTo=04%2F04%2F2008
+Apr 3 2008
+THIS IS NUMBER  197
+Request #197
+(3124, 26)
+THIS IS NUMBER  198
+Request #198
+(3135, 26)
+THIS IS NUMBER  199
+Request #199
+(3160, 26)
+THIS IS NUMBER  200
+Request #200
+(3182, 26)
+THIS IS NUMBER  201
+Request #201
+(3207, 26)
+THIS IS NUMBER  202
+Request #202
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612739&DateFrom=Apr%2F21%2F2008&DateTo=04%2F22%2F2008
+Apr 21 2008
+THIS IS NUMBER  203
+Request #203
+(3224, 26)
+THIS IS NUMBER  204
+Request #204
+(3238, 26)
+THIS IS NUMBER  205
+Request #205
+(3248, 26)
+THIS IS NUMBER  206
+Request #206
+(3263, 26)
+THIS IS NUMBER  207
+Request #207
+(3281, 26)
+THIS IS NUMBER  208
+Request #208
+(3306, 26)
+THIS IS NUMBER  209
+Request #209
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612739&DateFrom=May%2F10%2F2008&DateTo=05%2F11%2F2008
+May 10 2008
+THIS IS NUMBER  210
+Request #210
+(3326, 26)
+THIS IS NUMBER  211
+Request #211
+(3340, 26)
+THIS IS NUMBER  212
+Request #212
+(3365, 26)
+THIS IS NUMBER  213
+Request #213
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612739&DateFrom=May%2F16%2F2008&DateTo=05%2F17%2F2008
+May 16 2008
+THIS IS NUMBER  214
+Request #214
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612739&DateFrom=May%2F12%2F2008&DateTo=05%2F13%2F2008
+May 12 2008
+THIS IS NUMBER  215
+Request #215
+(3390, 26)
+THIS IS NUMBER  216
+Request #216
+(3410, 26)
+THIS IS NUMBER  217
+Request #217
+(3423, 26)
+THIS IS NUMBER  218
+Request #218
+(3437, 26)
+THIS IS NUMBER  219
+Request #219
+(3454, 26)
+THIS IS NUMBER  220
+Request #220
+(3470, 26)
+THIS IS NUMBER  221
+Request #221
+(3491, 26)
+THIS IS NUMBER  222
+Request #222
+(3516, 26)
+THIS IS NUMBER  223
+Request #223
+(3541, 26)
+THIS IS NUMBER  224
+Request #224
+(3566, 26)
+THIS IS NUMBER  225
+Request #225
+(3580, 26)
+THIS IS NUMBER  226
+Request #226
+(3605, 26)
+THIS IS NUMBER  227
+Request #227
+(3624, 26)
+THIS IS NUMBER  228
+Request #228
+(3647, 26)
+THIS IS NUMBER  229
+Request #229
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612742&DateFrom=Nov%2F28%2F2007&DateTo=11%2F29%2F2007
+Nov 28 2007
+THIS IS NUMBER  230
+Request #230
+(3672, 26)
+THIS IS NUMBER  231
+Request #231
+(3693, 26)
+THIS IS NUMBER  232
+Request #232
+(3718, 26)
+THIS IS NUMBER  233
+Request #233
+(3742, 26)
+THIS IS NUMBER  234
+Request #234
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612742&DateFrom=Nov%2F13%2F2007&DateTo=11%2F14%2F2007
+Nov 13 2007
+THIS IS NUMBER  235
+Request #235
+(3765, 26)
+THIS IS NUMBER  236
+Request #236
+(3790, 26)
+THIS IS NUMBER  237
+Request #237
+(3810, 26)
+THIS IS NUMBER  238
+Request #238
+(3829, 26)
+THIS IS NUMBER  239
+Request #239
+(3854, 26)
+THIS IS NUMBER  240
+Request #240
+(3877, 26)
+THIS IS NUMBER  241
+Request #241
+(3902, 26)
+THIS IS NUMBER  242
+Request #242
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612742&DateFrom=Dec%2F14%2F2007&DateTo=12%2F15%2F2007
+Dec 14 2007
+THIS IS NUMBER  243
+Request #243
+(3923, 26)
+THIS IS NUMBER  244
+Request #244
+(3945, 26)
+THIS IS NUMBER  245
+Request #245
+(3970, 26)
+THIS IS NUMBER  246
+Request #246
+(3995, 26)
+THIS IS NUMBER  247
+Request #247
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612742&DateFrom=Nov%2F3%2F2007&DateTo=11%2F04%2F2007
+Nov 3 2007
+THIS IS NUMBER  248
+Request #248
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612742&DateFrom=Jan%2F9%2F2008&DateTo=01%2F10%2F2008
+Jan 9 2008
+THIS IS NUMBER  249
+Request #249
+(4018, 26)
+THIS IS NUMBER  250
+Request #250
+(4042, 26)
+THIS IS NUMBER  251
+Request #251
+(4065, 26)
+THIS IS NUMBER  252
+Request #252
+(4084, 26)
+THIS IS NUMBER  253
+Request #253
+(4107, 26)
+THIS IS NUMBER  254
+Request #254
+(4130, 26)
+THIS IS NUMBER  255
+Request #255
+(4153, 26)
+THIS IS NUMBER  256
+Request #256
+(4173, 26)
+THIS IS NUMBER  257
+Request #257
+(4195, 26)
+THIS IS NUMBER  258
+Request #258
+(4215, 26)
+THIS IS NUMBER  259
+Request #259
+(4240, 26)
+THIS IS NUMBER  260
+Request #260
+(4258, 26)
+THIS IS NUMBER  261
+Request #261
+(4279, 26)
+THIS IS NUMBER  262
+Request #262
+(4300, 26)
+THIS IS NUMBER  263
+Request #263
+(4325, 26)
+THIS IS NUMBER  264
+Request #264
+(4350, 26)
+THIS IS NUMBER  265
+Request #265
+(4373, 26)
+THIS IS NUMBER  266
+Request #266
+(4398, 26)
+THIS IS NUMBER  267
+Request #267
+(4420, 26)
+THIS IS NUMBER  268
+Request #268
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612742&DateFrom=Apr%2F25%2F2008&DateTo=04%2F26%2F2008
+Apr 25 2008
+THIS IS NUMBER  269
+Request #269
+(4439, 26)
+THIS IS NUMBER  270
+Request #270
+(4457, 26)
+THIS IS NUMBER  271
+Request #271
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612742&DateFrom=Apr%2F27%2F2008&DateTo=04%2F28%2F2008
+Apr 27 2008
+THIS IS NUMBER  272
+Request #272
+(4469, 26)
+THIS IS NUMBER  273
+Request #273
+(4484, 26)
+THIS IS NUMBER  274
+Request #274
+(4509, 26)
+THIS IS NUMBER  275
+Request #275
+(4527, 26)
+THIS IS NUMBER  276
+Request #276
+(4545, 26)
+THIS IS NUMBER  277
+Request #277
+(4559, 26)
+THIS IS NUMBER  278
+Request #278
+(4573, 26)
+THIS IS NUMBER  279
+Request #279
+(4591, 26)
+THIS IS NUMBER  280
+Request #280
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612743&DateFrom=Apr%2F26%2F2008&DateTo=04%2F27%2F2008
+Apr 26 2008
+THIS IS NUMBER  281
+Request #281
+(4606, 26)
+THIS IS NUMBER  282
+Request #282
+(4619, 26)
+THIS IS NUMBER  283
+Request #283
+(4636, 26)
+THIS IS NUMBER  284
+Request #284
+(4649, 26)
+THIS IS NUMBER  285
+Request #285
+(4664, 26)
+THIS IS NUMBER  286
+Request #286
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612743&DateFrom=Apr%2F28%2F2008&DateTo=04%2F29%2F2008
+Apr 28 2008
+THIS IS NUMBER  287
+Request #287
+(4689, 26)
+THIS IS NUMBER  288
+Request #288
+(4712, 26)
+THIS IS NUMBER  289
+Request #289
+(4737, 26)
+THIS IS NUMBER  290
+Request #290
+(4749, 26)
+THIS IS NUMBER  291
+Request #291
+(4767, 26)
+THIS IS NUMBER  292
+Request #292
+(4779, 26)
+THIS IS NUMBER  293
+Request #293
+(4795, 26)
+THIS IS NUMBER  294
+Request #294
+(4812, 26)
+THIS IS NUMBER  295
+Request #295
+(4835, 26)
+THIS IS NUMBER  296
+Request #296
+(4852, 26)
+THIS IS NUMBER  297
+Request #297
+(4865, 26)
+THIS IS NUMBER  298
+Request #298
+(4890, 26)
+THIS IS NUMBER  299
+Request #299
+(4902, 26)
+THIS IS NUMBER  300
+Request #300
+(4911, 26)
+THIS IS NUMBER  301
+Request #301
+(4934, 26)
+THIS IS NUMBER  302
+Request #302
+(4948, 26)
+THIS IS NUMBER  303
+Request #303
+(4964, 26)
+THIS IS NUMBER  304
+Request #304
+(4983, 26)
+THIS IS NUMBER  305
+Request #305
+(4994, 26)
+THIS IS NUMBER  306
+Request #306
+(5011, 26)
+THIS IS NUMBER  307
+Request #307
+(5026, 26)
+THIS IS NUMBER  308
+Request #308
+(5042, 26)
+THIS IS NUMBER  309
+Request #309
+(5060, 26)
+THIS IS NUMBER  310
+Request #310
+(5070, 26)
+THIS IS NUMBER  311
+Request #311
+(5081, 26)
+THIS IS NUMBER  312
+Request #312
+(5095, 26)
+THIS IS NUMBER  313
+Request #313
+(5112, 26)
+THIS IS NUMBER  314
+Request #314
+(5129, 26)
+THIS IS NUMBER  315
+Request #315
+(5141, 26)
+THIS IS NUMBER  316
+Request #316
+(5161, 26)
+THIS IS NUMBER  317
+Request #317
+(5178, 26)
+THIS IS NUMBER  318
+Request #318
+(5195, 26)
+THIS IS NUMBER  319
+Request #319
+(5209, 26)
+THIS IS NUMBER  320
+Request #320
+(5234, 26)
+THIS IS NUMBER  321
+Request #321
+(5254, 26)
+THIS IS NUMBER  322
+Request #322
+(5279, 26)
+THIS IS NUMBER  323
+Request #323
+(5294, 26)
+THIS IS NUMBER  324
+Request #324
+(5310, 26)
+THIS IS NUMBER  325
+Request #325
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Jan%2F25%2F2008&DateTo=01%2F26%2F2008
+Jan 25 2008
+THIS IS NUMBER  326
+Request #326
+(5325, 26)
+THIS IS NUMBER  327
+Request #327
+(5340, 26)
+THIS IS NUMBER  328
+Request #328
+(5355, 26)
+THIS IS NUMBER  329
+Request #329
+(5370, 26)
+THIS IS NUMBER  330
+Request #330
+(5390, 26)
+THIS IS NUMBER  331
+Request #331
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Feb%2F8%2F2008&DateTo=02%2F09%2F2008
+Feb 8 2008
+THIS IS NUMBER  332
+Request #332
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Jan%2F31%2F2008&DateTo=02%2F01%2F2008
+Jan 31 2008
+THIS IS NUMBER  333
+Request #333
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Mar%2F4%2F2008&DateTo=03%2F05%2F2008
+Mar 4 2008
+THIS IS NUMBER  334
+Request #334
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Mar%2F14%2F2008&DateTo=03%2F15%2F2008
+Mar 14 2008
+THIS IS NUMBER  335
+Request #335
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Apr%2F4%2F2008&DateTo=04%2F05%2F2008
+Apr 4 2008
+THIS IS NUMBER  336
+Request #336
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=May%2F13%2F2008&DateTo=05%2F14%2F2008
+May 13 2008
+THIS IS NUMBER  337
+Request #337
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Apr%2F8%2F2008&DateTo=04%2F09%2F2008
+Apr 8 2008
+THIS IS NUMBER  338
+Request #338
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=May%2F30%2F2008&DateTo=05%2F31%2F2008
+May 30 2008
+THIS IS NUMBER  339
+Request #339
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Dec%2F28%2F2007&DateTo=12%2F29%2F2007
+Dec 28 2007
+THIS IS NUMBER  340
+Request #340
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Mar%2F12%2F2008&DateTo=03%2F13%2F2008
+Mar 12 2008
+THIS IS NUMBER  341
+Request #341
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Apr%2F20%2F2008&DateTo=04%2F21%2F2008
+Apr 20 2008
+THIS IS NUMBER  342
+Request #342
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Mar%2F24%2F2008&DateTo=03%2F25%2F2008
+Mar 24 2008
+THIS IS NUMBER  343
+Request #343
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Apr%2F23%2F2008&DateTo=04%2F24%2F2008
+Apr 23 2008
+THIS IS NUMBER  344
+Request #344
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=May%2F24%2F2008&DateTo=05%2F25%2F2008
+May 24 2008
+THIS IS NUMBER  345
+Request #345
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Apr%2F29%2F2008&DateTo=04%2F30%2F2008
+Apr 29 2008
+THIS IS NUMBER  346
+Request #346
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=May%2F26%2F2008&DateTo=05%2F27%2F2008
+May 26 2008
+THIS IS NUMBER  347
+Request #347
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Dec%2F21%2F2007&DateTo=12%2F22%2F2007
+Dec 21 2007
+THIS IS NUMBER  348
+Request #348
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Apr%2F15%2F2008&DateTo=04%2F16%2F2008
+Apr 15 2008
+THIS IS NUMBER  349
+Request #349
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Dec%2F31%2F2007&DateTo=01%2F01%2F2008
+Dec 31 2007
+THIS IS NUMBER  350
+Request #350
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Dec%2F23%2F2007&DateTo=12%2F24%2F2007
+Dec 23 2007
+THIS IS NUMBER  351
+Request #351
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Mar%2F18%2F2008&DateTo=03%2F19%2F2008
+Mar 18 2008
+THIS IS NUMBER  352
+Request #352
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Mar%2F29%2F2008&DateTo=03%2F30%2F2008
+Mar 29 2008
+THIS IS NUMBER  353
+Request #353
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Dec%2F16%2F2007&DateTo=12%2F17%2F2007
+Dec 16 2007
+THIS IS NUMBER  354
+Request #354
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=May%2F3%2F2008&DateTo=05%2F04%2F2008
+May 3 2008
+THIS IS NUMBER  355
+Request #355
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Apr%2F11%2F2008&DateTo=04%2F12%2F2008
+Apr 11 2008
+THIS IS NUMBER  356
+Request #356
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Dec%2F14%2F2007&DateTo=12%2F15%2F2007
+Dec 14 2007
+THIS IS NUMBER  357
+Request #357
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Apr%2F13%2F2008&DateTo=04%2F14%2F2008
+Apr 13 2008
+THIS IS NUMBER  358
+Request #358
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Mar%2F9%2F2008&DateTo=03%2F10%2F2008
+Mar 9 2008
+THIS IS NUMBER  359
+Request #359
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Dec%2F9%2F2007&DateTo=12%2F10%2F2007
+Dec 9 2007
+THIS IS NUMBER  360
+Request #360
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=May%2F5%2F2008&DateTo=05%2F06%2F2008
+May 5 2008
+THIS IS NUMBER  361
+Request #361
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Mar%2F27%2F2008&DateTo=03%2F28%2F2008
+Mar 27 2008
+THIS IS NUMBER  362
+Request #362
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Mar%2F16%2F2008&DateTo=03%2F17%2F2008
+Mar 16 2008
+THIS IS NUMBER  363
+Request #363
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Dec%2F7%2F2007&DateTo=12%2F08%2F2007
+Dec 7 2007
+THIS IS NUMBER  364
+Request #364
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612765&DateFrom=Dec%2F2%2F2007&DateTo=12%2F03%2F2007
+Dec 2 2007
+THIS IS NUMBER  365
+Request #365
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Feb%2F20%2F2008&DateTo=02%2F21%2F2008
+Feb 20 2008
+THIS IS NUMBER  366
+Request #366
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Dec%2F28%2F2007&DateTo=12%2F29%2F2007
+Dec 28 2007
+THIS IS NUMBER  367
+Request #367
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Feb%2F13%2F2008&DateTo=02%2F14%2F2008
+Feb 13 2008
+THIS IS NUMBER  368
+Request #368
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Mar%2F2%2F2008&DateTo=03%2F03%2F2008
+Mar 2 2008
+THIS IS NUMBER  369
+Request #369
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Dec%2F5%2F2007&DateTo=12%2F06%2F2007
+Dec 5 2007
+THIS IS NUMBER  370
+Request #370
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Nov%2F8%2F2007&DateTo=11%2F09%2F2007
+Nov 8 2007
+THIS IS NUMBER  371
+Request #371
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Nov%2F6%2F2007&DateTo=11%2F07%2F2007
+Nov 6 2007
+THIS IS NUMBER  372
+Request #372
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Dec%2F3%2F2007&DateTo=12%2F04%2F2007
+Dec 3 2007
+THIS IS NUMBER  373
+Request #373
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Feb%2F29%2F2008&DateTo=03%2F01%2F2008
+Feb 29 2008
+THIS IS NUMBER  374
+Request #374
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Apr%2F12%2F2008&DateTo=04%2F13%2F2008
+Apr 12 2008
+THIS IS NUMBER  375
+Request #375
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Apr%2F10%2F2008&DateTo=04%2F11%2F2008
+Apr 10 2008
+THIS IS NUMBER  376
+Request #376
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Nov%2F16%2F2007&DateTo=11%2F17%2F2007
+Nov 16 2007
+THIS IS NUMBER  377
+Request #377
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Feb%2F26%2F2008&DateTo=02%2F27%2F2008
+Feb 26 2008
+THIS IS NUMBER  378
+Request #378
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Nov%2F14%2F2007&DateTo=11%2F15%2F2007
+Nov 14 2007
+THIS IS NUMBER  379
+Request #379
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Apr%2F16%2F2008&DateTo=04%2F17%2F2008
+Apr 16 2008
+THIS IS NUMBER  380
+Request #380
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Dec%2F26%2F2007&DateTo=12%2F27%2F2007
+Dec 26 2007
+THIS IS NUMBER  381
+Request #381
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Feb%2F22%2F2008&DateTo=02%2F23%2F2008
+Feb 22 2008
+THIS IS NUMBER  382
+Request #382
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Apr%2F8%2F2008&DateTo=04%2F09%2F2008
+Apr 8 2008
+THIS IS NUMBER  383
+Request #383
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Mar%2F30%2F2008&DateTo=03%2F31%2F2008
+Mar 30 2008
+THIS IS NUMBER  384
+Request #384
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Dec%2F11%2F2007&DateTo=12%2F12%2F2007
+Dec 11 2007
+THIS IS NUMBER  385
+Request #385
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Feb%2F1%2F2008&DateTo=02%2F02%2F2008
+Feb 1 2008
+THIS IS NUMBER  386
+Request #386
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Mar%2F21%2F2008&DateTo=03%2F22%2F2008
+Mar 21 2008
+THIS IS NUMBER  387
+Request #387
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Mar%2F15%2F2008&DateTo=03%2F16%2F2008
+Mar 15 2008
+THIS IS NUMBER  388
+Request #388
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Jan%2F21%2F2008&DateTo=01%2F22%2F2008
+Jan 21 2008
+THIS IS NUMBER  389
+Request #389
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Jan%2F11%2F2008&DateTo=01%2F12%2F2008
+Jan 11 2008
+THIS IS NUMBER  390
+Request #390
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Mar%2F24%2F2008&DateTo=03%2F25%2F2008
+Mar 24 2008
+THIS IS NUMBER  391
+Request #391
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Feb%2F7%2F2008&DateTo=02%2F08%2F2008
+Feb 7 2008
+THIS IS NUMBER  392
+Request #392
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Jan%2F13%2F2008&DateTo=01%2F14%2F2008
+Jan 13 2008
+THIS IS NUMBER  393
+Request #393
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Nov%2F26%2F2007&DateTo=11%2F27%2F2007
+Nov 26 2007
+THIS IS NUMBER  394
+Request #394
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Dec%2F7%2F2007&DateTo=12%2F08%2F2007
+Dec 7 2007
+THIS IS NUMBER  395
+Request #395
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Oct%2F30%2F2007&DateTo=10%2F31%2F2007
+Oct 30 2007
+THIS IS NUMBER  396
+Request #396
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Dec%2F14%2F2007&DateTo=12%2F15%2F2007
+Dec 14 2007
+THIS IS NUMBER  397
+Request #397
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Jan%2F4%2F2008&DateTo=01%2F05%2F2008
+Jan 4 2008
+THIS IS NUMBER  398
+Request #398
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Jan%2F27%2F2008&DateTo=01%2F28%2F2008
+Jan 27 2008
+THIS IS NUMBER  399
+Request #399
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Feb%2F11%2F2008&DateTo=02%2F12%2F2008
+Feb 11 2008
+THIS IS NUMBER  400
+Request #400
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Mar%2F27%2F2008&DateTo=03%2F28%2F2008
+Mar 27 2008
+THIS IS NUMBER  401
+Request #401
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Jan%2F7%2F2008&DateTo=01%2F08%2F2008
+Jan 7 2008
+THIS IS NUMBER  402
+Request #402
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Jan%2F24%2F2008&DateTo=01%2F25%2F2008
+Jan 24 2008
+THIS IS NUMBER  403
+Request #403
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Feb%2F9%2F2008&DateTo=02%2F10%2F2008
+Feb 9 2008
+THIS IS NUMBER  404
+Request #404
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Nov%2F29%2F2007&DateTo=11%2F30%2F2007
+Nov 29 2007
+THIS IS NUMBER  405
+Request #405
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612744&DateFrom=Mar%2F12%2F2008&DateTo=03%2F13%2F2008
+Mar 12 2008
+THIS IS NUMBER  406
+Request #406
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Dec%2F12%2F2007&DateTo=12%2F13%2F2007
+Dec 12 2007
+THIS IS NUMBER  407
+Request #407
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Apr%2F16%2F2008&DateTo=04%2F17%2F2008
+Apr 16 2008
+THIS IS NUMBER  408
+Request #408
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Jan%2F27%2F2008&DateTo=01%2F28%2F2008
+Jan 27 2008
+THIS IS NUMBER  409
+Request #409
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Apr%2F11%2F2008&DateTo=04%2F12%2F2008
+Apr 11 2008
+THIS IS NUMBER  410
+Request #410
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Jan%2F19%2F2008&DateTo=01%2F20%2F2008
+Jan 19 2008
+THIS IS NUMBER  411
+Request #411
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Mar%2F14%2F2008&DateTo=03%2F15%2F2008
+Mar 14 2008
+THIS IS NUMBER  412
+Request #412
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Mar%2F16%2F2008&DateTo=03%2F17%2F2008
+Mar 16 2008
+THIS IS NUMBER  413
+Request #413
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Nov%2F14%2F2007&DateTo=11%2F15%2F2007
+Nov 14 2007
+THIS IS NUMBER  414
+Request #414
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Mar%2F18%2F2008&DateTo=03%2F19%2F2008
+Mar 18 2008
+THIS IS NUMBER  415
+Request #415
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Jan%2F29%2F2008&DateTo=01%2F30%2F2008
+Jan 29 2008
+THIS IS NUMBER  416
+Request #416
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Nov%2F17%2F2007&DateTo=11%2F18%2F2007
+Nov 17 2007
+THIS IS NUMBER  417
+Request #417
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Jan%2F21%2F2008&DateTo=01%2F22%2F2008
+Jan 21 2008
+THIS IS NUMBER  418
+Request #418
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Mar%2F5%2F2008&DateTo=03%2F06%2F2008
+Mar 5 2008
+THIS IS NUMBER  419
+Request #419
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Mar%2F2%2F2008&DateTo=03%2F03%2F2008
+Mar 2 2008
+THIS IS NUMBER  420
+Request #420
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Dec%2F15%2F2007&DateTo=12%2F16%2F2007
+Dec 15 2007
+THIS IS NUMBER  421
+Request #421
+(5398, 26)
+THIS IS NUMBER  422
+Request #422
+(5408, 26)
+THIS IS NUMBER  423
+Request #423
+(5419, 26)
+THIS IS NUMBER  424
+Request #424
+(5431, 26)
+THIS IS NUMBER  425
+Request #425
+(5447, 26)
+THIS IS NUMBER  426
+Request #426
+(5463, 26)
+THIS IS NUMBER  427
+Request #427
+(5476, 26)
+THIS IS NUMBER  428
+Request #428
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Apr%2F21%2F2008&DateTo=04%2F22%2F2008
+Apr 21 2008
+THIS IS NUMBER  429
+Request #429
+(5493, 26)
+THIS IS NUMBER  430
+Request #430
+(5512, 26)
+THIS IS NUMBER  431
+Request #431
+(5537, 26)
+THIS IS NUMBER  432
+Request #432
+(5552, 26)
+THIS IS NUMBER  433
+Request #433
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Apr%2F29%2F2008&DateTo=04%2F30%2F2008
+Apr 29 2008
+THIS IS NUMBER  434
+Request #434
+(5567, 26)
+THIS IS NUMBER  435
+Request #435
+(5576, 26)
+THIS IS NUMBER  436
+Request #436
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612745&DateFrom=Apr%2F19%2F2008&DateTo=04%2F20%2F2008
+Apr 19 2008
+THIS IS NUMBER  437
+Request #437
+(5593, 26)
+THIS IS NUMBER  438
+Request #438
+(5611, 26)
+THIS IS NUMBER  439
+Request #439
+(5625, 26)
+THIS IS NUMBER  440
+Request #440
+(5638, 26)
+THIS IS NUMBER  441
+Request #441
+(5650, 26)
+THIS IS NUMBER  442
+Request #442
+(5664, 26)
+THIS IS NUMBER  443
+Request #443
+(5676, 26)
+THIS IS NUMBER  444
+Request #444
+(5699, 26)
+THIS IS NUMBER  445
+Request #445
+(5712, 26)
+THIS IS NUMBER  446
+Request #446
+(5730, 26)
+THIS IS NUMBER  447
+Request #447
+(5743, 26)
+THIS IS NUMBER  448
+Request #448
+(5760, 26)
+THIS IS NUMBER  449
+Request #449
+(5777, 26)
+THIS IS NUMBER  450
+Request #450
+(5791, 26)
+THIS IS NUMBER  451
+Request #451
+(5811, 26)
+THIS IS NUMBER  452
+Request #452
+(5833, 26)
+THIS IS NUMBER  453
+Request #453
+(5857, 26)
+THIS IS NUMBER  454
+Request #454
+(5882, 26)
+THIS IS NUMBER  455
+Request #455
+(5907, 26)
+THIS IS NUMBER  456
+Request #456
+(5926, 26)
+THIS IS NUMBER  457
+Request #457
+(5951, 26)
+THIS IS NUMBER  458
+Request #458
+(5969, 26)
+THIS IS NUMBER  459
+Request #459
+(5986, 26)
+THIS IS NUMBER  460
+Request #460
+(6008, 26)
+THIS IS NUMBER  461
+Request #461
+(6033, 26)
+THIS IS NUMBER  462
+Request #462
+(6048, 26)
+THIS IS NUMBER  463
+Request #463
+(6073, 26)
+THIS IS NUMBER  464
+Request #464
+(6098, 26)
+THIS IS NUMBER  465
+Request #465
+(6120, 26)
+THIS IS NUMBER  466
+Request #466
+(6141, 26)
+THIS IS NUMBER  467
+Request #467
+(6166, 26)
+THIS IS NUMBER  468
+Request #468
+(6186, 26)
+THIS IS NUMBER  469
+Request #469
+(6209, 26)
+THIS IS NUMBER  470
+Request #470
+(6225, 26)
+THIS IS NUMBER  471
+Request #471
+(6244, 26)
+THIS IS NUMBER  472
+Request #472
+(6269, 26)
+THIS IS NUMBER  473
+Request #473
+(6291, 26)
+THIS IS NUMBER  474
+Request #474
+(6309, 26)
+THIS IS NUMBER  475
+Request #475
+(6332, 26)
+THIS IS NUMBER  476
+Request #476
+(6357, 26)
+THIS IS NUMBER  477
+Request #477
+(6376, 26)
+THIS IS NUMBER  478
+Request #478
+(6399, 26)
+THIS IS NUMBER  479
+Request #479
+(6419, 26)
+THIS IS NUMBER  480
+Request #480
+(6441, 26)
+THIS IS NUMBER  481
+Request #481
+(6463, 26)
+THIS IS NUMBER  482
+Request #482
+(6488, 26)
+THIS IS NUMBER  483
+Request #483
+(6513, 26)
+THIS IS NUMBER  484
+Request #484
+(6538, 26)
+THIS IS NUMBER  485
+Request #485
+(6563, 26)
+THIS IS NUMBER  486
+Request #486
+(6581, 26)
+THIS IS NUMBER  487
+Request #487
+(6604, 26)
+THIS IS NUMBER  488
+Request #488
+(6629, 26)
+THIS IS NUMBER  489
+Request #489
+(6652, 26)
+THIS IS NUMBER  490
+Request #490
+(6669, 26)
+THIS IS NUMBER  491
+Request #491
+(6683, 26)
+THIS IS NUMBER  492
+Request #492
+(6698, 26)
+THIS IS NUMBER  493
+Request #493
+(6709, 26)
+THIS IS NUMBER  494
+Request #494
+(6722, 26)
+THIS IS NUMBER  495
+Request #495
+(6741, 26)
+THIS IS NUMBER  496
+Request #496
+(6758, 26)
+THIS IS NUMBER  497
+Request #497
+(6776, 26)
+THIS IS NUMBER  498
+Request #498
+(6801, 26)
+THIS IS NUMBER  499
+Request #499
+(6826, 26)
+THIS IS NUMBER  500
+Request #500
+(6851, 26)
+THIS IS NUMBER  501
+Request #501
+(6868, 26)
+THIS IS NUMBER  502
+Request #502
+(6889, 26)
+THIS IS NUMBER  503
+Request #503
+(6903, 26)
+THIS IS NUMBER  504
+Request #504
+(6922, 26)
+THIS IS NUMBER  505
+Request #505
+(6937, 26)
+THIS IS NUMBER  506
+Request #506
+(6952, 26)
+THIS IS NUMBER  507
+Request #507
+(6971, 26)
+THIS IS NUMBER  508
+Request #508
+(6989, 26)
+THIS IS NUMBER  509
+Request #509
+(7007, 26)
+THIS IS NUMBER  510
+Request #510
+(7022, 26)
+THIS IS NUMBER  511
+Request #511
+(7035, 26)
+THIS IS NUMBER  512
+Request #512
+(7055, 26)
+THIS IS NUMBER  513
+Request #513
+(7070, 26)
+THIS IS NUMBER  514
+Request #514
+(7085, 26)
+THIS IS NUMBER  515
+Request #515
+(7108, 26)
+THIS IS NUMBER  516
+Request #516
+(7122, 26)
+THIS IS NUMBER  517
+Request #517
+(7136, 26)
+THIS IS NUMBER  518
+Request #518
+(7150, 26)
+THIS IS NUMBER  519
+Request #519
+(7168, 26)
+THIS IS NUMBER  520
+Request #520
+(7183, 26)
+THIS IS NUMBER  521
+Request #521
+(7197, 26)
+THIS IS NUMBER  522
+Request #522
+(7213, 26)
+THIS IS NUMBER  523
+Request #523
+(7227, 26)
+THIS IS NUMBER  524
+Request #524
+(7248, 26)
+THIS IS NUMBER  525
+Request #525
+(7264, 26)
+THIS IS NUMBER  526
+Request #526
+(7287, 26)
+THIS IS NUMBER  527
+Request #527
+(7312, 26)
+THIS IS NUMBER  528
+Request #528
+(7329, 26)
+THIS IS NUMBER  529
+Request #529
+(7343, 26)
+THIS IS NUMBER  530
+Request #530
+(7363, 26)
+THIS IS NUMBER  531
+Request #531
+(7381, 26)
+THIS IS NUMBER  532
+Request #532
+(7397, 26)
+THIS IS NUMBER  533
+Request #533
+(7410, 26)
+THIS IS NUMBER  534
+Request #534
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612747&DateFrom=May%2F21%2F2008&DateTo=05%2F22%2F2008
+May 21 2008
+THIS IS NUMBER  535
+Request #535
+(7424, 26)
+THIS IS NUMBER  536
+Request #536
+(7438, 26)
+THIS IS NUMBER  537
+Request #537
+(7454, 26)
+THIS IS NUMBER  538
+Request #538
+(7474, 26)
+THIS IS NUMBER  539
+Request #539
+(7499, 26)
+THIS IS NUMBER  540
+Request #540
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612747&DateFrom=May%2F14%2F2008&DateTo=05%2F15%2F2008
+May 14 2008
+THIS IS NUMBER  541
+Request #541
+(7524, 26)
+THIS IS NUMBER  542
+Request #542
+(7538, 26)
+THIS IS NUMBER  543
+Request #543
+(7552, 26)
+THIS IS NUMBER  544
+Request #544
+(7567, 26)
+THIS IS NUMBER  545
+Request #545
+(7583, 26)
+THIS IS NUMBER  546
+Request #546
+(7604, 26)
+THIS IS NUMBER  547
+Request #547
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612747&DateFrom=May%2F7%2F2008&DateTo=05%2F08%2F2008
+May 7 2008
+THIS IS NUMBER  548
+Request #548
+(7621, 26)
+THIS IS NUMBER  549
+Request #549
+(7633, 26)
+THIS IS NUMBER  550
+Request #550
+(7651, 26)
+THIS IS NUMBER  551
+Request #551
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612747&DateFrom=May%2F23%2F2008&DateTo=05%2F24%2F2008
+May 23 2008
+THIS IS NUMBER  552
+Request #552
+(7668, 26)
+THIS IS NUMBER  553
+Request #553
+(7691, 26)
+THIS IS NUMBER  554
+Request #554
+(7704, 26)
+THIS IS NUMBER  555
+Request #555
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612747&DateFrom=May%2F29%2F2008&DateTo=05%2F30%2F2008
+May 29 2008
+THIS IS NUMBER  556
+Request #556
+(7729, 26)
+THIS IS NUMBER  557
+Request #557
+(7748, 26)
+THIS IS NUMBER  558
+Request #558
+(7768, 26)
+THIS IS NUMBER  559
+Request #559
+(7793, 26)
+THIS IS NUMBER  560
+Request #560
+(7813, 26)
+THIS IS NUMBER  561
+Request #561
+(7830, 26)
+THIS IS NUMBER  562
+Request #562
+(7842, 26)
+THIS IS NUMBER  563
+Request #563
+(7854, 26)
+THIS IS NUMBER  564
+Request #564
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612747&DateFrom=May%2F4%2F2008&DateTo=05%2F05%2F2008
+May 4 2008
+THIS IS NUMBER  565
+Request #565
+(7869, 26)
+THIS IS NUMBER  566
+Request #566
+(7890, 26)
+THIS IS NUMBER  567
+Request #567
+(7903, 26)
+THIS IS NUMBER  568
+Request #568
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612747&DateFrom=Jun%2F10%2F2008&DateTo=06%2F11%2F2008
+Jun 10 2008
+THIS IS NUMBER  569
+Request #569
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612747&DateFrom=Apr%2F23%2F2008&DateTo=04%2F24%2F2008
+Apr 23 2008
+THIS IS NUMBER  570
+Request #570
+(7925, 26)
+THIS IS NUMBER  571
+Request #571
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612747&DateFrom=Apr%2F20%2F2008&DateTo=04%2F21%2F2008
+Apr 20 2008
+THIS IS NUMBER  572
+Request #572
+(7935, 26)
+THIS IS NUMBER  573
+Request #573
+(7945, 26)
+THIS IS NUMBER  574
+Request #574
+(7963, 26)
+THIS IS NUMBER  575
+Request #575
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612747&DateFrom=Jun%2F15%2F2008&DateTo=06%2F16%2F2008
+Jun 15 2008
+THIS IS NUMBER  576
+Request #576
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612747&DateFrom=Jun%2F12%2F2008&DateTo=06%2F13%2F2008
+Jun 12 2008
+THIS IS NUMBER  577
+Request #577
+(7977, 26)
+THIS IS NUMBER  578
+Request #578
+(7994, 26)
+THIS IS NUMBER  579
+Request #579
+(8012, 26)
+THIS IS NUMBER  580
+Request #580
+(8032, 26)
+THIS IS NUMBER  581
+Request #581
+(8049, 26)
+THIS IS NUMBER  582
+Request #582
+(8064, 26)
+THIS IS NUMBER  583
+Request #583
+(8082, 26)
+THIS IS NUMBER  584
+Request #584
+(8096, 26)
+THIS IS NUMBER  585
+Request #585
+(8114, 26)
+THIS IS NUMBER  586
+Request #586
+(8132, 26)
+THIS IS NUMBER  587
+Request #587
+(8147, 26)
+THIS IS NUMBER  588
+Request #588
+(8167, 26)
+THIS IS NUMBER  589
+Request #589
+(8192, 26)
+THIS IS NUMBER  590
+Request #590
+(8210, 26)
+THIS IS NUMBER  591
+Request #591
+(8231, 26)
+THIS IS NUMBER  592
+Request #592
+(8245, 26)
+THIS IS NUMBER  593
+Request #593
+(8270, 26)
+THIS IS NUMBER  594
+Request #594
+(8286, 26)
+THIS IS NUMBER  595
+Request #595
+(8300, 26)
+THIS IS NUMBER  596
+Request #596
+(8318, 26)
+THIS IS NUMBER  597
+Request #597
+(8343, 26)
+THIS IS NUMBER  598
+Request #598
+(8368, 26)
+THIS IS NUMBER  599
+Request #599
+(8385, 26)
+THIS IS NUMBER  600
+Request #600
+(8406, 26)
+THIS IS NUMBER  601
+Request #601
+(8423, 26)
+THIS IS NUMBER  602
+Request #602
+(8433, 26)
+THIS IS NUMBER  603
+Request #603
+(8443, 26)
+THIS IS NUMBER  604
+Request #604
+(8456, 26)
+THIS IS NUMBER  605
+Request #605
+(8473, 26)
+THIS IS NUMBER  606
+Request #606
+(8496, 26)
+THIS IS NUMBER  607
+Request #607
+(8512, 26)
+THIS IS NUMBER  608
+Request #608
+(8531, 26)
+THIS IS NUMBER  609
+Request #609
+(8556, 26)
+THIS IS NUMBER  610
+Request #610
+(8574, 26)
+THIS IS NUMBER  611
+Request #611
+(8592, 26)
+THIS IS NUMBER  612
+Request #612
+(8607, 26)
+THIS IS NUMBER  613
+Request #613
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612763&DateFrom=Dec%2F22%2F2007&DateTo=12%2F23%2F2007
+Dec 22 2007
+THIS IS NUMBER  614
+Request #614
+(8624, 26)
+THIS IS NUMBER  615
+Request #615
+(8642, 26)
+THIS IS NUMBER  616
+Request #616
+(8667, 26)
+THIS IS NUMBER  617
+Request #617
+(8683, 26)
+THIS IS NUMBER  618
+Request #618
+(8697, 26)
+THIS IS NUMBER  619
+Request #619
+(8716, 26)
+THIS IS NUMBER  620
+Request #620
+(8731, 26)
+THIS IS NUMBER  621
+Request #621
+(8749, 26)
+THIS IS NUMBER  622
+Request #622
+(8772, 26)
+THIS IS NUMBER  623
+Request #623
+(8786, 26)
+THIS IS NUMBER  624
+Request #624
+(8805, 26)
+THIS IS NUMBER  625
+Request #625
+(8822, 26)
+THIS IS NUMBER  626
+Request #626
+(8847, 26)
+THIS IS NUMBER  627
+Request #627
+(8865, 26)
+THIS IS NUMBER  628
+Request #628
+(8884, 26)
+THIS IS NUMBER  629
+Request #629
+(8896, 26)
+THIS IS NUMBER  630
+Request #630
+(8921, 26)
+THIS IS NUMBER  631
+Request #631
+(8936, 26)
+THIS IS NUMBER  632
+Request #632
+(8957, 26)
+THIS IS NUMBER  633
+Request #633
+(8974, 26)
+THIS IS NUMBER  634
+Request #634
+(8994, 26)
+THIS IS NUMBER  635
+Request #635
+(9006, 26)
+THIS IS NUMBER  636
+Request #636
+(9022, 26)
+THIS IS NUMBER  637
+Request #637
+(9046, 26)
+THIS IS NUMBER  638
+Request #638
+(9068, 26)
+THIS IS NUMBER  639
+Request #639
+(9082, 26)
+THIS IS NUMBER  640
+Request #640
+(9099, 26)
+THIS IS NUMBER  641
+Request #641
+(9121, 26)
+THIS IS NUMBER  642
+Request #642
+(9137, 26)
+THIS IS NUMBER  643
+Request #643
+(9153, 26)
+THIS IS NUMBER  644
+Request #644
+(9170, 26)
+THIS IS NUMBER  645
+Request #645
+(9186, 26)
+THIS IS NUMBER  646
+Request #646
+(9203, 26)
+THIS IS NUMBER  647
+Request #647
+(9228, 26)
+THIS IS NUMBER  648
+Request #648
+(9242, 26)
+THIS IS NUMBER  649
+Request #649
+(9255, 26)
+THIS IS NUMBER  650
+Request #650
+(9272, 26)
+THIS IS NUMBER  651
+Request #651
+(9286, 26)
+THIS IS NUMBER  652
+Request #652
+(9311, 26)
+THIS IS NUMBER  653
+Request #653
+(9325, 26)
+THIS IS NUMBER  654
+Request #654
+(9339, 26)
+THIS IS NUMBER  655
+Request #655
+(9364, 26)
+THIS IS NUMBER  656
+Request #656
+(9380, 26)
+THIS IS NUMBER  657
+Request #657
+(9401, 26)
+THIS IS NUMBER  658
+Request #658
+(9420, 26)
+THIS IS NUMBER  659
+Request #659
+(9440, 26)
+THIS IS NUMBER  660
+Request #660
+(9459, 26)
+THIS IS NUMBER  661
+Request #661
+(9471, 26)
+THIS IS NUMBER  662
+Request #662
+(9485, 26)
+THIS IS NUMBER  663
+Request #663
+(9503, 26)
+THIS IS NUMBER  664
+Request #664
+(9528, 26)
+THIS IS NUMBER  665
+Request #665
+(9546, 26)
+THIS IS NUMBER  666
+Request #666
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Nov%2F14%2F2007&DateTo=11%2F15%2F2007
+Nov 14 2007
+THIS IS NUMBER  667
+Request #667
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Apr%2F1%2F2008&DateTo=04%2F02%2F2008
+Apr 1 2008
+THIS IS NUMBER  668
+Request #668
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Mar%2F5%2F2008&DateTo=03%2F06%2F2008
+Mar 5 2008
+THIS IS NUMBER  669
+Request #669
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Nov%2F24%2F2007&DateTo=11%2F25%2F2007
+Nov 24 2007
+THIS IS NUMBER  670
+Request #670
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Mar%2F28%2F2008&DateTo=03%2F29%2F2008
+Mar 28 2008
+THIS IS NUMBER  671
+Request #671
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Dec%2F19%2F2007&DateTo=12%2F20%2F2007
+Dec 19 2007
+THIS IS NUMBER  672
+Request #672
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Mar%2F7%2F2008&DateTo=03%2F08%2F2008
+Mar 7 2008
+THIS IS NUMBER  673
+Request #673
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Dec%2F29%2F2007&DateTo=12%2F30%2F2007
+Dec 29 2007
+THIS IS NUMBER  674
+Request #674
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Dec%2F15%2F2007&DateTo=12%2F16%2F2007
+Dec 15 2007
+THIS IS NUMBER  675
+Request #675
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Feb%2F9%2F2008&DateTo=02%2F10%2F2008
+Feb 9 2008
+THIS IS NUMBER  676
+Request #676
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Nov%2F3%2F2007&DateTo=11%2F04%2F2007
+Nov 3 2007
+THIS IS NUMBER  677
+Request #677
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Apr%2F14%2F2008&DateTo=04%2F15%2F2008
+Apr 14 2008
+THIS IS NUMBER  678
+Request #678
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Jan%2F4%2F2008&DateTo=01%2F05%2F2008
+Jan 4 2008
+THIS IS NUMBER  679
+Request #679
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Jan%2F9%2F2008&DateTo=01%2F10%2F2008
+Jan 9 2008
+THIS IS NUMBER  680
+Request #680
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Mar%2F1%2F2008&DateTo=03%2F02%2F2008
+Mar 1 2008
+THIS IS NUMBER  681
+Request #681
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Mar%2F9%2F2008&DateTo=03%2F10%2F2008
+Mar 9 2008
+THIS IS NUMBER  682
+Request #682
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Nov%2F27%2F2007&DateTo=11%2F28%2F2007
+Nov 27 2007
+THIS IS NUMBER  683
+Request #683
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Nov%2F6%2F2007&DateTo=11%2F07%2F2007
+Nov 6 2007
+THIS IS NUMBER  684
+Request #684
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Mar%2F22%2F2008&DateTo=03%2F23%2F2008
+Mar 22 2008
+THIS IS NUMBER  685
+Request #685
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Jan%2F19%2F2008&DateTo=01%2F20%2F2008
+Jan 19 2008
+THIS IS NUMBER  686
+Request #686
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Feb%2F26%2F2008&DateTo=02%2F27%2F2008
+Feb 26 2008
+THIS IS NUMBER  687
+Request #687
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Mar%2F15%2F2008&DateTo=03%2F16%2F2008
+Mar 15 2008
+THIS IS NUMBER  688
+Request #688
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Jan%2F22%2F2008&DateTo=01%2F23%2F2008
+Jan 22 2008
+THIS IS NUMBER  689
+Request #689
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Feb%2F23%2F2008&DateTo=02%2F24%2F2008
+Feb 23 2008
+THIS IS NUMBER  690
+Request #690
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Nov%2F21%2F2007&DateTo=11%2F22%2F2007
+Nov 21 2007
+THIS IS NUMBER  691
+Request #691
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Dec%2F12%2F2007&DateTo=12%2F13%2F2007
+Dec 12 2007
+THIS IS NUMBER  692
+Request #692
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Jan%2F24%2F2008&DateTo=01%2F25%2F2008
+Jan 24 2008
+THIS IS NUMBER  693
+Request #693
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Feb%2F20%2F2008&DateTo=02%2F21%2F2008
+Feb 20 2008
+THIS IS NUMBER  694
+Request #694
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Apr%2F4%2F2008&DateTo=04%2F05%2F2008
+Apr 4 2008
+THIS IS NUMBER  695
+Request #695
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Mar%2F18%2F2008&DateTo=03%2F19%2F2008
+Mar 18 2008
+THIS IS NUMBER  696
+Request #696
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Jan%2F27%2F2008&DateTo=01%2F28%2F2008
+Jan 27 2008
+THIS IS NUMBER  697
+Request #697
+(9556, 26)
+THIS IS NUMBER  698
+Request #698
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Feb%2F2%2F2008&DateTo=02%2F03%2F2008
+Feb 2 2008
+THIS IS NUMBER  699
+Request #699
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Apr%2F8%2F2008&DateTo=04%2F09%2F2008
+Apr 8 2008
+THIS IS NUMBER  700
+Request #700
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Dec%2F1%2F2007&DateTo=12%2F02%2F2007
+Dec 1 2007
+THIS IS NUMBER  701
+Request #701
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Dec%2F22%2F2007&DateTo=12%2F23%2F2007
+Dec 22 2007
+THIS IS NUMBER  702
+Request #702
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Jan%2F16%2F2008&DateTo=01%2F17%2F2008
+Jan 16 2008
+THIS IS NUMBER  703
+Request #703
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Mar%2F12%2F2008&DateTo=03%2F13%2F2008
+Mar 12 2008
+THIS IS NUMBER  704
+Request #704
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Apr%2F12%2F2008&DateTo=04%2F13%2F2008
+Apr 12 2008
+THIS IS NUMBER  705
+Request #705
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Feb%2F11%2F2008&DateTo=02%2F12%2F2008
+Feb 11 2008
+THIS IS NUMBER  706
+Request #706
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612749&DateFrom=Nov%2F17%2F2007&DateTo=11%2F18%2F2007
+Nov 17 2007
+THIS IS NUMBER  707
+Request #707
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612750&DateFrom=Feb%2F13%2F2008&DateTo=02%2F14%2F2008
+Feb 13 2008
+THIS IS NUMBER  708
+Request #708
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612750&DateFrom=Nov%2F21%2F2007&DateTo=11%2F22%2F2007
+Nov 21 2007
+THIS IS NUMBER  709
+Request #709
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612750&DateFrom=Apr%2F16%2F2008&DateTo=04%2F17%2F2008
+Apr 16 2008
+THIS IS NUMBER  710
+Request #710
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612750&DateFrom=Feb%2F21%2F2008&DateTo=02%2F22%2F2008
+Feb 21 2008
+THIS IS NUMBER  711
+Request #711
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612750&DateFrom=Dec%2F21%2F2007&DateTo=12%2F22%2F2007
+Dec 21 2007
+THIS IS NUMBER  712
+Request #712
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612750&DateFrom=Nov%2F16%2F2007&DateTo=11%2F17%2F2007
+Nov 16 2007
+THIS IS NUMBER  713
+Request #713
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612750&DateFrom=Feb%2F19%2F2008&DateTo=02%2F20%2F2008
+Feb 19 2008
+THIS IS NUMBER  714
+Request #714
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612750&DateFrom=Mar%2F4%2F2008&DateTo=03%2F05%2F2008
+Mar 4 2008
+THIS IS NUMBER  715
+Request #715
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612750&DateFrom=Mar%2F2%2F2008&DateTo=03%2F03%2F2008
+Mar 2 2008
+THIS IS NUMBER  716
+Request #716
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612750&DateFrom=Apr%2F6%2F2008&DateTo=04%2F07%2F2008
+Apr 6 2008
+THIS IS NUMBER  717
+Request #717
+(9575, 26)
+THIS IS NUMBER  718
+Request #718
+(9600, 26)
+THIS IS NUMBER  719
+Request #719
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612750&DateFrom=Apr%2F9%2F2008&DateTo=04%2F10%2F2008
+Apr 9 2008
+THIS IS NUMBER  720
+Request #720
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612750&DateFrom=Nov%2F17%2F2007&DateTo=11%2F18%2F2007
+Nov 17 2007
+THIS IS NUMBER  721
+Request #721
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612750&DateFrom=Apr%2F1%2F2008&DateTo=04%2F02%2F2008
+Apr 1 2008
+THIS IS NUMBER  722
+Request #722
+(9614, 26)
+THIS IS NUMBER  723
+Request #723
+(9636, 26)
+THIS IS NUMBER  724
+Request #724
+(9649, 26)
+THIS IS NUMBER  725
+Request #725
+(9665, 26)
+THIS IS NUMBER  726
+Request #726
+(9687, 26)
+THIS IS NUMBER  727
+Request #727
+(9703, 26)
+THIS IS NUMBER  728
+Request #728
+(9720, 26)
+THIS IS NUMBER  729
+Request #729
+(9733, 26)
+THIS IS NUMBER  730
+Request #730
+(9753, 26)
+THIS IS NUMBER  731
+Request #731
+(9774, 26)
+THIS IS NUMBER  732
+Request #732
+(9787, 26)
+THIS IS NUMBER  733
+Request #733
+(9812, 26)
+THIS IS NUMBER  734
+Request #734
+(9830, 26)
+THIS IS NUMBER  735
+Request #735
+(9845, 26)
+THIS IS NUMBER  736
+Request #736
+(9870, 26)
+THIS IS NUMBER  737
+Request #737
+(9891, 26)
+THIS IS NUMBER  738
+Request #738
+(9906, 26)
+THIS IS NUMBER  739
+Request #739
+(9925, 26)
+THIS IS NUMBER  740
+Request #740
+(9943, 26)
+THIS IS NUMBER  741
+Request #741
+(9956, 26)
+THIS IS NUMBER  742
+Request #742
+(9975, 26)
+THIS IS NUMBER  743
+Request #743
+(9995, 26)
+THIS IS NUMBER  744
+Request #744
+(10008, 26)
+THIS IS NUMBER  745
+Request #745
+(10026, 26)
+THIS IS NUMBER  746
+Request #746
+(10047, 26)
+THIS IS NUMBER  747
+Request #747
+(10070, 26)
+THIS IS NUMBER  748
+Request #748
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Dec%2F22%2F2007&DateTo=12%2F23%2F2007
+Dec 22 2007
+THIS IS NUMBER  749
+Request #749
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Nov%2F16%2F2007&DateTo=11%2F17%2F2007
+Nov 16 2007
+THIS IS NUMBER  750
+Request #750
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Dec%2F11%2F2007&DateTo=12%2F12%2F2007
+Dec 11 2007
+THIS IS NUMBER  751
+Request #751
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Jan%2F11%2F2008&DateTo=01%2F12%2F2008
+Jan 11 2008
+THIS IS NUMBER  752
+Request #752
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Apr%2F1%2F2008&DateTo=04%2F02%2F2008
+Apr 1 2008
+THIS IS NUMBER  753
+Request #753
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Feb%2F10%2F2008&DateTo=02%2F11%2F2008
+Feb 10 2008
+THIS IS NUMBER  754
+Request #754
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Mar%2F26%2F2008&DateTo=03%2F27%2F2008
+Mar 26 2008
+THIS IS NUMBER  755
+Request #755
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Nov%2F27%2F2007&DateTo=11%2F28%2F2007
+Nov 27 2007
+THIS IS NUMBER  756
+Request #756
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Apr%2F15%2F2008&DateTo=04%2F16%2F2008
+Apr 15 2008
+THIS IS NUMBER  757
+Request #757
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Nov%2F2%2F2007&DateTo=11%2F03%2F2007
+Nov 2 2007
+THIS IS NUMBER  758
+Request #758
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Nov%2F17%2F2007&DateTo=11%2F18%2F2007
+Nov 17 2007
+THIS IS NUMBER  759
+Request #759
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Feb%2F23%2F2008&DateTo=02%2F24%2F2008
+Feb 23 2008
+THIS IS NUMBER  760
+Request #760
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Mar%2F19%2F2008&DateTo=03%2F20%2F2008
+Mar 19 2008
+THIS IS NUMBER  761
+Request #761
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Apr%2F5%2F2008&DateTo=04%2F06%2F2008
+Apr 5 2008
+THIS IS NUMBER  762
+Request #762
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Jan%2F29%2F2008&DateTo=01%2F30%2F2008
+Jan 29 2008
+THIS IS NUMBER  763
+Request #763
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Feb%2F20%2F2008&DateTo=02%2F21%2F2008
+Feb 20 2008
+THIS IS NUMBER  764
+Request #764
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Dec%2F28%2F2007&DateTo=12%2F29%2F2007
+Dec 28 2007
+THIS IS NUMBER  765
+Request #765
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Dec%2F26%2F2007&DateTo=12%2F27%2F2007
+Dec 26 2007
+THIS IS NUMBER  766
+Request #766
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Jan%2F16%2F2008&DateTo=01%2F17%2F2008
+Jan 16 2008
+THIS IS NUMBER  767
+Request #767
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Mar%2F15%2F2008&DateTo=03%2F16%2F2008
+Mar 15 2008
+THIS IS NUMBER  768
+Request #768
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Mar%2F12%2F2008&DateTo=03%2F13%2F2008
+Mar 12 2008
+THIS IS NUMBER  769
+Request #769
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Oct%2F31%2F2007&DateTo=11%2F01%2F2007
+Oct 31 2007
+THIS IS NUMBER  770
+Request #770
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Dec%2F1%2F2007&DateTo=12%2F02%2F2007
+Dec 1 2007
+THIS IS NUMBER  771
+Request #771
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Jan%2F9%2F2008&DateTo=01%2F10%2F2008
+Jan 9 2008
+THIS IS NUMBER  772
+Request #772
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Feb%2F12%2F2008&DateTo=02%2F13%2F2008
+Feb 12 2008
+THIS IS NUMBER  773
+Request #773
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Mar%2F21%2F2008&DateTo=03%2F22%2F2008
+Mar 21 2008
+THIS IS NUMBER  774
+Request #774
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Feb%2F28%2F2008&DateTo=02%2F29%2F2008
+Feb 28 2008
+THIS IS NUMBER  775
+Request #775
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Dec%2F14%2F2007&DateTo=12%2F15%2F2007
+Dec 14 2007
+THIS IS NUMBER  776
+Request #776
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Feb%2F26%2F2008&DateTo=02%2F27%2F2008
+Feb 26 2008
+THIS IS NUMBER  777
+Request #777
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Jan%2F14%2F2008&DateTo=01%2F15%2F2008
+Jan 14 2008
+THIS IS NUMBER  778
+Request #778
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Nov%2F8%2F2007&DateTo=11%2F09%2F2007
+Nov 8 2007
+THIS IS NUMBER  779
+Request #779
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Mar%2F2%2F2008&DateTo=03%2F03%2F2008
+Mar 2 2008
+THIS IS NUMBER  780
+Request #780
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Nov%2F6%2F2007&DateTo=11%2F07%2F2007
+Nov 6 2007
+THIS IS NUMBER  781
+Request #781
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Feb%2F5%2F2008&DateTo=02%2F06%2F2008
+Feb 5 2008
+THIS IS NUMBER  782
+Request #782
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Nov%2F10%2F2007&DateTo=11%2F11%2F2007
+Nov 10 2007
+THIS IS NUMBER  783
+Request #783
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Mar%2F29%2F2008&DateTo=03%2F30%2F2008
+Mar 29 2008
+THIS IS NUMBER  784
+Request #784
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Dec%2F18%2F2007&DateTo=12%2F19%2F2007
+Dec 18 2007
+THIS IS NUMBER  785
+Request #785
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Jan%2F4%2F2008&DateTo=01%2F05%2F2008
+Jan 4 2008
+THIS IS NUMBER  786
+Request #786
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Dec%2F7%2F2007&DateTo=12%2F08%2F2007
+Dec 7 2007
+THIS IS NUMBER  787
+Request #787
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Dec%2F5%2F2007&DateTo=12%2F06%2F2007
+Dec 5 2007
+THIS IS NUMBER  788
+Request #788
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612751&DateFrom=Nov%2F12%2F2007&DateTo=11%2F13%2F2007
+Nov 12 2007
+THIS IS NUMBER  789
+Request #789
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Dec%2F1%2F2007&DateTo=12%2F02%2F2007
+Dec 1 2007
+THIS IS NUMBER  790
+Request #790
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Oct%2F31%2F2007&DateTo=11%2F01%2F2007
+Oct 31 2007
+THIS IS NUMBER  791
+Request #791
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Feb%2F25%2F2008&DateTo=02%2F26%2F2008
+Feb 25 2008
+THIS IS NUMBER  792
+Request #792
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=May%2F19%2F2008&DateTo=05%2F20%2F2008
+May 19 2008
+THIS IS NUMBER  793
+Request #793
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Dec%2F7%2F2007&DateTo=12%2F08%2F2007
+Dec 7 2007
+THIS IS NUMBER  794
+Request #794
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Dec%2F29%2F2007&DateTo=12%2F30%2F2007
+Dec 29 2007
+THIS IS NUMBER  795
+Request #795
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Apr%2F8%2F2008&DateTo=04%2F09%2F2008
+Apr 8 2008
+THIS IS NUMBER  796
+Request #796
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Mar%2F12%2F2008&DateTo=03%2F13%2F2008
+Mar 12 2008
+THIS IS NUMBER  797
+Request #797
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Dec%2F22%2F2007&DateTo=12%2F23%2F2007
+Dec 22 2007
+THIS IS NUMBER  798
+Request #798
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Feb%2F9%2F2008&DateTo=02%2F10%2F2008
+Feb 9 2008
+THIS IS NUMBER  799
+Request #799
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Apr%2F29%2F2008&DateTo=04%2F30%2F2008
+Apr 29 2008
+THIS IS NUMBER  800
+Request #800
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Feb%2F27%2F2008&DateTo=02%2F28%2F2008
+Feb 27 2008
+THIS IS NUMBER  801
+Request #801
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Dec%2F5%2F2007&DateTo=12%2F06%2F2007
+Dec 5 2007
+THIS IS NUMBER  802
+Request #802
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Nov%2F19%2F2007&DateTo=11%2F20%2F2007
+Nov 19 2007
+THIS IS NUMBER  803
+Request #803
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Nov%2F26%2F2007&DateTo=11%2F27%2F2007
+Nov 26 2007
+THIS IS NUMBER  804
+Request #804
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Jan%2F21%2F2008&DateTo=01%2F22%2F2008
+Jan 21 2008
+THIS IS NUMBER  805
+Request #805
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Mar%2F22%2F2008&DateTo=03%2F23%2F2008
+Mar 22 2008
+THIS IS NUMBER  806
+Request #806
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Mar%2F14%2F2008&DateTo=03%2F15%2F2008
+Mar 14 2008
+THIS IS NUMBER  807
+Request #807
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Mar%2F7%2F2008&DateTo=03%2F08%2F2008
+Mar 7 2008
+THIS IS NUMBER  808
+Request #808
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Feb%2F29%2F2008&DateTo=03%2F01%2F2008
+Feb 29 2008
+THIS IS NUMBER  809
+Request #809
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Jan%2F18%2F2008&DateTo=01%2F19%2F2008
+Jan 18 2008
+THIS IS NUMBER  810
+Request #810
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Jan%2F16%2F2008&DateTo=01%2F17%2F2008
+Jan 16 2008
+THIS IS NUMBER  811
+Request #811
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=May%2F5%2F2008&DateTo=05%2F06%2F2008
+May 5 2008
+THIS IS NUMBER  812
+Request #812
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Apr%2F6%2F2008&DateTo=04%2F07%2F2008
+Apr 6 2008
+THIS IS NUMBER  813
+Request #813
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Nov%2F2%2F2007&DateTo=11%2F03%2F2007
+Nov 2 2007
+THIS IS NUMBER  814
+Request #814
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Nov%2F14%2F2007&DateTo=11%2F15%2F2007
+Nov 14 2007
+THIS IS NUMBER  815
+Request #815
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=May%2F3%2F2008&DateTo=05%2F04%2F2008
+May 3 2008
+THIS IS NUMBER  816
+Request #816
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Mar%2F5%2F2008&DateTo=03%2F06%2F2008
+Mar 5 2008
+THIS IS NUMBER  817
+Request #817
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Nov%2F21%2F2007&DateTo=11%2F22%2F2007
+Nov 21 2007
+THIS IS NUMBER  818
+Request #818
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Feb%2F20%2F2008&DateTo=02%2F21%2F2008
+Feb 20 2008
+THIS IS NUMBER  819
+Request #819
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Dec%2F31%2F2007&DateTo=01%2F01%2F2008
+Dec 31 2007
+THIS IS NUMBER  820
+Request #820
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Jan%2F28%2F2008&DateTo=01%2F29%2F2008
+Jan 28 2008
+THIS IS NUMBER  821
+Request #821
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Apr%2F19%2F2008&DateTo=04%2F20%2F2008
+Apr 19 2008
+THIS IS NUMBER  822
+Request #822
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=May%2F13%2F2008&DateTo=05%2F14%2F2008
+May 13 2008
+THIS IS NUMBER  823
+Request #823
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Jan%2F25%2F2008&DateTo=01%2F26%2F2008
+Jan 25 2008
+THIS IS NUMBER  824
+Request #824
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Jan%2F9%2F2008&DateTo=01%2F10%2F2008
+Jan 9 2008
+THIS IS NUMBER  825
+Request #825
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Apr%2F4%2F2008&DateTo=04%2F05%2F2008
+Apr 4 2008
+THIS IS NUMBER  826
+Request #826
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Mar%2F17%2F2008&DateTo=03%2F18%2F2008
+Mar 17 2008
+THIS IS NUMBER  827
+Request #827
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Apr%2F22%2F2008&DateTo=04%2F23%2F2008
+Apr 22 2008
+THIS IS NUMBER  828
+Request #828
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Dec%2F9%2F2007&DateTo=12%2F10%2F2007
+Dec 9 2007
+THIS IS NUMBER  829
+Request #829
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Feb%2F22%2F2008&DateTo=02%2F23%2F2008
+Feb 22 2008
+THIS IS NUMBER  830
+Request #830
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Nov%2F9%2F2007&DateTo=11%2F10%2F2007
+Nov 9 2007
+THIS IS NUMBER  831
+Request #831
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Jan%2F23%2F2008&DateTo=01%2F24%2F2008
+Jan 23 2008
+THIS IS NUMBER  832
+Request #832
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Apr%2F15%2F2008&DateTo=04%2F16%2F2008
+Apr 15 2008
+THIS IS NUMBER  833
+Request #833
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Jan%2F30%2F2008&DateTo=01%2F31%2F2008
+Jan 30 2008
+THIS IS NUMBER  834
+Request #834
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Mar%2F19%2F2008&DateTo=03%2F20%2F2008
+Mar 19 2008
+THIS IS NUMBER  835
+Request #835
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Jan%2F11%2F2008&DateTo=01%2F12%2F2008
+Jan 11 2008
+THIS IS NUMBER  836
+Request #836
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612740&DateFrom=Dec%2F15%2F2007&DateTo=12%2F16%2F2007
+Dec 15 2007
+THIS IS NUMBER  837
+Request #837
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Apr%2F6%2F2008&DateTo=04%2F07%2F2008
+Apr 6 2008
+THIS IS NUMBER  838
+Request #838
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Jan%2F11%2F2008&DateTo=01%2F12%2F2008
+Jan 11 2008
+THIS IS NUMBER  839
+Request #839
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Jan%2F9%2F2008&DateTo=01%2F10%2F2008
+Jan 9 2008
+THIS IS NUMBER  840
+Request #840
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Mar%2F26%2F2008&DateTo=03%2F27%2F2008
+Mar 26 2008
+THIS IS NUMBER  841
+Request #841
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Feb%2F8%2F2008&DateTo=02%2F09%2F2008
+Feb 8 2008
+THIS IS NUMBER  842
+Request #842
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Mar%2F3%2F2008&DateTo=03%2F04%2F2008
+Mar 3 2008
+THIS IS NUMBER  843
+Request #843
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Dec%2F2%2F2007&DateTo=12%2F03%2F2007
+Dec 2 2007
+THIS IS NUMBER  844
+Request #844
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Mar%2F24%2F2008&DateTo=03%2F25%2F2008
+Mar 24 2008
+THIS IS NUMBER  845
+Request #845
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Dec%2F12%2F2007&DateTo=12%2F13%2F2007
+Dec 12 2007
+THIS IS NUMBER  846
+Request #846
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Dec%2F15%2F2007&DateTo=12%2F16%2F2007
+Dec 15 2007
+THIS IS NUMBER  847
+Request #847
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Mar%2F8%2F2008&DateTo=03%2F09%2F2008
+Mar 8 2008
+THIS IS NUMBER  848
+Request #848
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Jan%2F25%2F2008&DateTo=01%2F26%2F2008
+Jan 25 2008
+THIS IS NUMBER  849
+Request #849
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Nov%2F30%2F2007&DateTo=12%2F01%2F2007
+Nov 30 2007
+THIS IS NUMBER  850
+Request #850
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Mar%2F5%2F2008&DateTo=03%2F06%2F2008
+Mar 5 2008
+THIS IS NUMBER  851
+Request #851
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Nov%2F4%2F2007&DateTo=11%2F05%2F2007
+Nov 4 2007
+THIS IS NUMBER  852
+Request #852
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Feb%2F6%2F2008&DateTo=02%2F07%2F2008
+Feb 6 2008
+THIS IS NUMBER  853
+Request #853
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Mar%2F16%2F2008&DateTo=03%2F17%2F2008
+Mar 16 2008
+THIS IS NUMBER  854
+Request #854
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Feb%2F22%2F2008&DateTo=02%2F23%2F2008
+Feb 22 2008
+THIS IS NUMBER  855
+Request #855
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Dec%2F30%2F2007&DateTo=12%2F31%2F2007
+Dec 30 2007
+THIS IS NUMBER  856
+Request #856
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Dec%2F8%2F2007&DateTo=12%2F09%2F2007
+Dec 8 2007
+THIS IS NUMBER  857
+Request #857
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Dec%2F10%2F2007&DateTo=12%2F11%2F2007
+Dec 10 2007
+THIS IS NUMBER  858
+Request #858
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Dec%2F17%2F2007&DateTo=12%2F18%2F2007
+Dec 17 2007
+THIS IS NUMBER  859
+Request #859
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Dec%2F19%2F2007&DateTo=12%2F20%2F2007
+Dec 19 2007
+THIS IS NUMBER  860
+Request #860
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Jan%2F21%2F2008&DateTo=01%2F22%2F2008
+Jan 21 2008
+THIS IS NUMBER  861
+Request #861
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Jan%2F2%2F2008&DateTo=01%2F03%2F2008
+Jan 2 2008
+THIS IS NUMBER  862
+Request #862
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Jan%2F15%2F2008&DateTo=01%2F16%2F2008
+Jan 15 2008
+THIS IS NUMBER  863
+Request #863
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Nov%2F26%2F2007&DateTo=11%2F27%2F2007
+Nov 26 2007
+THIS IS NUMBER  864
+Request #864
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Nov%2F6%2F2007&DateTo=11%2F07%2F2007
+Nov 6 2007
+THIS IS NUMBER  865
+Request #865
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Mar%2F21%2F2008&DateTo=03%2F22%2F2008
+Mar 21 2008
+THIS IS NUMBER  866
+Request #866
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Apr%2F11%2F2008&DateTo=04%2F12%2F2008
+Apr 11 2008
+THIS IS NUMBER  867
+Request #867
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Mar%2F7%2F2008&DateTo=03%2F08%2F2008
+Mar 7 2008
+THIS IS NUMBER  868
+Request #868
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Dec%2F23%2F2007&DateTo=12%2F24%2F2007
+Dec 23 2007
+THIS IS NUMBER  869
+Request #869
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Apr%2F14%2F2008&DateTo=04%2F15%2F2008
+Apr 14 2008
+THIS IS NUMBER  870
+Request #870
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Jan%2F13%2F2008&DateTo=01%2F14%2F2008
+Jan 13 2008
+THIS IS NUMBER  871
+Request #871
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Feb%2F27%2F2008&DateTo=02%2F28%2F2008
+Feb 27 2008
+THIS IS NUMBER  872
+Request #872
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Feb%2F4%2F2008&DateTo=02%2F05%2F2008
+Feb 4 2008
+THIS IS NUMBER  873
+Request #873
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Apr%2F9%2F2008&DateTo=04%2F10%2F2008
+Apr 9 2008
+THIS IS NUMBER  874
+Request #874
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Nov%2F11%2F2007&DateTo=11%2F12%2F2007
+Nov 11 2007
+THIS IS NUMBER  875
+Request #875
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Nov%2F24%2F2007&DateTo=11%2F25%2F2007
+Nov 24 2007
+THIS IS NUMBER  876
+Request #876
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Nov%2F20%2F2007&DateTo=11%2F21%2F2007
+Nov 20 2007
+THIS IS NUMBER  877
+Request #877
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612752&DateFrom=Nov%2F9%2F2007&DateTo=11%2F10%2F2007
+Nov 9 2007
+THIS IS NUMBER  878
+Request #878
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Feb%2F11%2F2008&DateTo=02%2F12%2F2008
+Feb 11 2008
+THIS IS NUMBER  879
+Request #879
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Feb%2F8%2F2008&DateTo=02%2F09%2F2008
+Feb 8 2008
+THIS IS NUMBER  880
+Request #880
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=May%2F7%2F2008&DateTo=05%2F08%2F2008
+May 7 2008
+THIS IS NUMBER  881
+Request #881
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Feb%2F13%2F2008&DateTo=02%2F14%2F2008
+Feb 13 2008
+THIS IS NUMBER  882
+Request #882
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Dec%2F29%2F2007&DateTo=12%2F30%2F2007
+Dec 29 2007
+THIS IS NUMBER  883
+Request #883
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Feb%2F6%2F2008&DateTo=02%2F07%2F2008
+Feb 6 2008
+THIS IS NUMBER  884
+Request #884
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Feb%2F4%2F2008&DateTo=02%2F05%2F2008
+Feb 4 2008
+THIS IS NUMBER  885
+Request #885
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=May%2F10%2F2008&DateTo=05%2F11%2F2008
+May 10 2008
+THIS IS NUMBER  886
+Request #886
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Apr%2F1%2F2008&DateTo=04%2F02%2F2008
+Apr 1 2008
+THIS IS NUMBER  887
+Request #887
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Jan%2F27%2F2008&DateTo=01%2F28%2F2008
+Jan 27 2008
+THIS IS NUMBER  888
+Request #888
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Mar%2F15%2F2008&DateTo=03%2F16%2F2008
+Mar 15 2008
+THIS IS NUMBER  889
+Request #889
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Mar%2F21%2F2008&DateTo=03%2F22%2F2008
+Mar 21 2008
+THIS IS NUMBER  890
+Request #890
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Mar%2F1%2F2008&DateTo=03%2F02%2F2008
+Mar 1 2008
+THIS IS NUMBER  891
+Request #891
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Nov%2F24%2F2007&DateTo=11%2F25%2F2007
+Nov 24 2007
+THIS IS NUMBER  892
+Request #892
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Nov%2F10%2F2007&DateTo=11%2F11%2F2007
+Nov 10 2007
+THIS IS NUMBER  893
+Request #893
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Apr%2F28%2F2008&DateTo=04%2F29%2F2008
+Apr 28 2008
+THIS IS NUMBER  894
+Request #894
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Jan%2F21%2F2008&DateTo=01%2F22%2F2008
+Jan 21 2008
+THIS IS NUMBER  895
+Request #895
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Mar%2F12%2F2008&DateTo=03%2F13%2F2008
+Mar 12 2008
+THIS IS NUMBER  896
+Request #896
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Dec%2F7%2F2007&DateTo=12%2F08%2F2007
+Dec 7 2007
+THIS IS NUMBER  897
+Request #897
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Dec%2F15%2F2007&DateTo=12%2F16%2F2007
+Dec 15 2007
+THIS IS NUMBER  898
+Request #898
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Jan%2F15%2F2008&DateTo=01%2F16%2F2008
+Jan 15 2008
+THIS IS NUMBER  899
+Request #899
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Mar%2F10%2F2008&DateTo=03%2F11%2F2008
+Mar 10 2008
+THIS IS NUMBER  900
+Request #900
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Nov%2F2%2F2007&DateTo=11%2F03%2F2007
+Nov 2 2007
+THIS IS NUMBER  901
+Request #901
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Mar%2F25%2F2008&DateTo=03%2F26%2F2008
+Mar 25 2008
+THIS IS NUMBER  902
+Request #902
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Dec%2F10%2F2007&DateTo=12%2F11%2F2007
+Dec 10 2007
+THIS IS NUMBER  903
+Request #903
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Mar%2F8%2F2008&DateTo=03%2F09%2F2008
+Mar 8 2008
+THIS IS NUMBER  904
+Request #904
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Jan%2F4%2F2008&DateTo=01%2F05%2F2008
+Jan 4 2008
+THIS IS NUMBER  905
+Request #905
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Jan%2F2%2F2008&DateTo=01%2F03%2F2008
+Jan 2 2008
+THIS IS NUMBER  906
+Request #906
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Jan%2F19%2F2008&DateTo=01%2F20%2F2008
+Jan 19 2008
+THIS IS NUMBER  907
+Request #907
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Mar%2F4%2F2008&DateTo=03%2F05%2F2008
+Mar 4 2008
+THIS IS NUMBER  908
+Request #908
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Nov%2F13%2F2007&DateTo=11%2F14%2F2007
+Nov 13 2007
+THIS IS NUMBER  909
+Request #909
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Apr%2F22%2F2008&DateTo=04%2F23%2F2008
+Apr 22 2008
+THIS IS NUMBER  910
+Request #910
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Apr%2F20%2F2008&DateTo=04%2F21%2F2008
+Apr 20 2008
+THIS IS NUMBER  911
+Request #911
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Apr%2F11%2F2008&DateTo=04%2F12%2F2008
+Apr 11 2008
+THIS IS NUMBER  912
+Request #912
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Dec%2F26%2F2007&DateTo=12%2F27%2F2007
+Dec 26 2007
+THIS IS NUMBER  913
+Request #913
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Apr%2F9%2F2008&DateTo=04%2F10%2F2008
+Apr 9 2008
+THIS IS NUMBER  914
+Request #914
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Feb%2F24%2F2008&DateTo=02%2F25%2F2008
+Feb 24 2008
+THIS IS NUMBER  915
+Request #915
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Feb%2F22%2F2008&DateTo=02%2F23%2F2008
+Feb 22 2008
+THIS IS NUMBER  916
+Request #916
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Nov%2F23%2F2007&DateTo=11%2F24%2F2007
+Nov 23 2007
+THIS IS NUMBER  917
+Request #917
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Nov%2F18%2F2007&DateTo=11%2F19%2F2007
+Nov 18 2007
+THIS IS NUMBER  918
+Request #918
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Jan%2F30%2F2008&DateTo=01%2F31%2F2008
+Jan 30 2008
+THIS IS NUMBER  919
+Request #919
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Dec%2F21%2F2007&DateTo=12%2F22%2F2007
+Dec 21 2007
+THIS IS NUMBER  920
+Request #920
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Mar%2F17%2F2008&DateTo=03%2F18%2F2008
+Mar 17 2008
+THIS IS NUMBER  921
+Request #921
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Apr%2F16%2F2008&DateTo=04%2F17%2F2008
+Apr 16 2008
+THIS IS NUMBER  922
+Request #922
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Mar%2F19%2F2008&DateTo=03%2F20%2F2008
+Mar 19 2008
+THIS IS NUMBER  923
+Request #923
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612753&DateFrom=Oct%2F31%2F2007&DateTo=11%2F01%2F2007
+Oct 31 2007
+THIS IS NUMBER  924
+Request #924
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Dec%2F12%2F2007&DateTo=12%2F13%2F2007
+Dec 12 2007
+THIS IS NUMBER  925
+Request #925
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Dec%2F14%2F2007&DateTo=12%2F15%2F2007
+Dec 14 2007
+THIS IS NUMBER  926
+Request #926
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Nov%2F30%2F2007&DateTo=12%2F01%2F2007
+Nov 30 2007
+THIS IS NUMBER  927
+Request #927
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Dec%2F5%2F2007&DateTo=12%2F06%2F2007
+Dec 5 2007
+THIS IS NUMBER  928
+Request #928
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Dec%2F10%2F2007&DateTo=12%2F11%2F2007
+Dec 10 2007
+THIS IS NUMBER  929
+Request #929
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Nov%2F24%2F2007&DateTo=11%2F25%2F2007
+Nov 24 2007
+THIS IS NUMBER  930
+Request #930
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Dec%2F26%2F2007&DateTo=12%2F27%2F2007
+Dec 26 2007
+THIS IS NUMBER  931
+Request #931
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Nov%2F16%2F2007&DateTo=11%2F17%2F2007
+Nov 16 2007
+THIS IS NUMBER  932
+Request #932
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Dec%2F3%2F2007&DateTo=12%2F04%2F2007
+Dec 3 2007
+THIS IS NUMBER  933
+Request #933
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Nov%2F11%2F2007&DateTo=11%2F12%2F2007
+Nov 11 2007
+THIS IS NUMBER  934
+Request #934
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Nov%2F9%2F2007&DateTo=11%2F10%2F2007
+Nov 9 2007
+THIS IS NUMBER  935
+Request #935
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Nov%2F7%2F2007&DateTo=11%2F08%2F2007
+Nov 7 2007
+THIS IS NUMBER  936
+Request #936
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Dec%2F7%2F2007&DateTo=12%2F08%2F2007
+Dec 7 2007
+THIS IS NUMBER  937
+Request #937
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Nov%2F3%2F2007&DateTo=11%2F04%2F2007
+Nov 3 2007
+THIS IS NUMBER  938
+Request #938
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Nov%2F28%2F2007&DateTo=11%2F29%2F2007
+Nov 28 2007
+THIS IS NUMBER  939
+Request #939
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Dec%2F21%2F2007&DateTo=12%2F22%2F2007
+Dec 21 2007
+THIS IS NUMBER  940
+Request #940
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=May%2F1%2F2008&DateTo=05%2F02%2F2008
+May 1 2008
+THIS IS NUMBER  941
+Request #941
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Apr%2F25%2F2008&DateTo=04%2F26%2F2008
+Apr 25 2008
+THIS IS NUMBER  942
+Request #942
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Jan%2F11%2F2008&DateTo=01%2F12%2F2008
+Jan 11 2008
+THIS IS NUMBER  943
+Request #943
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Jan%2F8%2F2008&DateTo=01%2F09%2F2008
+Jan 8 2008
+THIS IS NUMBER  944
+Request #944
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Apr%2F14%2F2008&DateTo=04%2F15%2F2008
+Apr 14 2008
+THIS IS NUMBER  945
+Request #945
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Apr%2F11%2F2008&DateTo=04%2F12%2F2008
+Apr 11 2008
+THIS IS NUMBER  946
+Request #946
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Apr%2F9%2F2008&DateTo=04%2F10%2F2008
+Apr 9 2008
+THIS IS NUMBER  947
+Request #947
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Apr%2F27%2F2008&DateTo=04%2F28%2F2008
+Apr 27 2008
+THIS IS NUMBER  948
+Request #948
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Jan%2F19%2F2008&DateTo=01%2F20%2F2008
+Jan 19 2008
+THIS IS NUMBER  949
+Request #949
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Mar%2F22%2F2008&DateTo=03%2F23%2F2008
+Mar 22 2008
+THIS IS NUMBER  950
+Request #950
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Mar%2F15%2F2008&DateTo=03%2F16%2F2008
+Mar 15 2008
+THIS IS NUMBER  951
+Request #951
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Mar%2F26%2F2008&DateTo=03%2F27%2F2008
+Mar 26 2008
+THIS IS NUMBER  952
+Request #952
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Mar%2F28%2F2008&DateTo=03%2F29%2F2008
+Mar 28 2008
+THIS IS NUMBER  953
+Request #953
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Apr%2F5%2F2008&DateTo=04%2F06%2F2008
+Apr 5 2008
+THIS IS NUMBER  954
+Request #954
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Jan%2F30%2F2008&DateTo=01%2F31%2F2008
+Jan 30 2008
+THIS IS NUMBER  955
+Request #955
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Mar%2F7%2F2008&DateTo=03%2F08%2F2008
+Mar 7 2008
+THIS IS NUMBER  956
+Request #956
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Jan%2F23%2F2008&DateTo=01%2F24%2F2008
+Jan 23 2008
+THIS IS NUMBER  957
+Request #957
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Jan%2F21%2F2008&DateTo=01%2F22%2F2008
+Jan 21 2008
+THIS IS NUMBER  958
+Request #958
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Mar%2F10%2F2008&DateTo=03%2F11%2F2008
+Mar 10 2008
+THIS IS NUMBER  959
+Request #959
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Feb%2F1%2F2008&DateTo=02%2F02%2F2008
+Feb 1 2008
+THIS IS NUMBER  960
+Request #960
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Mar%2F19%2F2008&DateTo=03%2F20%2F2008
+Mar 19 2008
+THIS IS NUMBER  961
+Request #961
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Feb%2F27%2F2008&DateTo=02%2F28%2F2008
+Feb 27 2008
+THIS IS NUMBER  962
+Request #962
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Feb%2F11%2F2008&DateTo=02%2F12%2F2008
+Feb 11 2008
+THIS IS NUMBER  963
+Request #963
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Feb%2F20%2F2008&DateTo=02%2F21%2F2008
+Feb 20 2008
+THIS IS NUMBER  964
+Request #964
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Feb%2F13%2F2008&DateTo=02%2F14%2F2008
+Feb 13 2008
+THIS IS NUMBER  965
+Request #965
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Feb%2F5%2F2008&DateTo=02%2F06%2F2008
+Feb 5 2008
+THIS IS NUMBER  966
+Request #966
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Feb%2F9%2F2008&DateTo=02%2F10%2F2008
+Feb 9 2008
+THIS IS NUMBER  967
+Request #967
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612755&DateFrom=Feb%2F7%2F2008&DateTo=02%2F08%2F2008
+Feb 7 2008
+THIS IS NUMBER  968
+Request #968
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Feb%2F22%2F2008&DateTo=02%2F23%2F2008
+Feb 22 2008
+THIS IS NUMBER  969
+Request #969
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Feb%2F24%2F2008&DateTo=02%2F25%2F2008
+Feb 24 2008
+THIS IS NUMBER  970
+Request #970
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Jan%2F20%2F2008&DateTo=01%2F21%2F2008
+Jan 20 2008
+THIS IS NUMBER  971
+Request #971
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Feb%2F8%2F2008&DateTo=02%2F09%2F2008
+Feb 8 2008
+THIS IS NUMBER  972
+Request #972
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Mar%2F1%2F2008&DateTo=03%2F02%2F2008
+Mar 1 2008
+THIS IS NUMBER  973
+Request #973
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Nov%2F15%2F2007&DateTo=11%2F16%2F2007
+Nov 15 2007
+THIS IS NUMBER  974
+Request #974
+(10087, 26)
+THIS IS NUMBER  975
+Request #975
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Apr%2F27%2F2008&DateTo=04%2F28%2F2008
+Apr 27 2008
+THIS IS NUMBER  976
+Request #976
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Apr%2F25%2F2008&DateTo=04%2F26%2F2008
+Apr 25 2008
+THIS IS NUMBER  977
+Request #977
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Feb%2F6%2F2008&DateTo=02%2F07%2F2008
+Feb 6 2008
+THIS IS NUMBER  978
+Request #978
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Jan%2F12%2F2008&DateTo=01%2F13%2F2008
+Jan 12 2008
+THIS IS NUMBER  979
+Request #979
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Nov%2F2%2F2007&DateTo=11%2F03%2F2007
+Nov 2 2007
+THIS IS NUMBER  980
+Request #980
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Jan%2F29%2F2008&DateTo=01%2F30%2F2008
+Jan 29 2008
+THIS IS NUMBER  981
+Request #981
+(10102, 26)
+THIS IS NUMBER  982
+Request #982
+(10115, 26)
+THIS IS NUMBER  983
+Request #983
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Nov%2F23%2F2007&DateTo=11%2F24%2F2007
+Nov 23 2007
+THIS IS NUMBER  984
+Request #984
+(10128, 26)
+THIS IS NUMBER  985
+Request #985
+(10145, 26)
+THIS IS NUMBER  986
+Request #986
+(10170, 26)
+THIS IS NUMBER  987
+Request #987
+(10194, 26)
+THIS IS NUMBER  988
+Request #988
+(10208, 26)
+THIS IS NUMBER  989
+Request #989
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Feb%2F10%2F2008&DateTo=02%2F11%2F2008
+Feb 10 2008
+THIS IS NUMBER  990
+Request #990
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Mar%2F11%2F2008&DateTo=03%2F12%2F2008
+Mar 11 2008
+THIS IS NUMBER  991
+Request #991
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Feb%2F20%2F2008&DateTo=02%2F21%2F2008
+Feb 20 2008
+THIS IS NUMBER  992
+Request #992
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Mar%2F9%2F2008&DateTo=03%2F10%2F2008
+Mar 9 2008
+THIS IS NUMBER  993
+Request #993
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Jan%2F31%2F2008&DateTo=02%2F01%2F2008
+Jan 31 2008
+THIS IS NUMBER  994
+Request #994
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Nov%2F21%2F2007&DateTo=11%2F22%2F2007
+Nov 21 2007
+THIS IS NUMBER  995
+Request #995
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Mar%2F7%2F2008&DateTo=03%2F08%2F2008
+Mar 7 2008
+THIS IS NUMBER  996
+Request #996
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Jan%2F9%2F2008&DateTo=01%2F10%2F2008
+Jan 9 2008
+THIS IS NUMBER  997
+Request #997
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Apr%2F14%2F2008&DateTo=04%2F15%2F2008
+Apr 14 2008
+THIS IS NUMBER  998
+Request #998
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Dec%2F28%2F2007&DateTo=12%2F29%2F2007
+Dec 28 2007
+THIS IS NUMBER  999
+Request #999
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Nov%2F30%2F2007&DateTo=12%2F01%2F2007
+Nov 30 2007
+THIS IS NUMBER  1000
+Request #1000
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Nov%2F13%2F2007&DateTo=11%2F14%2F2007
+Nov 13 2007
+THIS IS NUMBER  1001
+Request #1001
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Dec%2F22%2F2007&DateTo=12%2F23%2F2007
+Dec 22 2007
+THIS IS NUMBER  1002
+Request #1002
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Nov%2F28%2F2007&DateTo=11%2F29%2F2007
+Nov 28 2007
+THIS IS NUMBER  1003
+Request #1003
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Jan%2F3%2F2008&DateTo=01%2F04%2F2008
+Jan 3 2008
+THIS IS NUMBER  1004
+Request #1004
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Apr%2F4%2F2008&DateTo=04%2F05%2F2008
+Apr 4 2008
+THIS IS NUMBER  1005
+Request #1005
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Jan%2F5%2F2008&DateTo=01%2F06%2F2008
+Jan 5 2008
+THIS IS NUMBER  1006
+Request #1006
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612756&DateFrom=Jan%2F7%2F2008&DateTo=01%2F08%2F2008
+Jan 7 2008
+THIS IS NUMBER  1007
+Request #1007
+(10218, 26)
+THIS IS NUMBER  1008
+Request #1008
+(10230, 26)
+THIS IS NUMBER  1009
+Request #1009
+(10251, 26)
+THIS IS NUMBER  1010
+Request #1010
+(10262, 26)
+THIS IS NUMBER  1011
+Request #1011
+(10287, 26)
+THIS IS NUMBER  1012
+Request #1012
+(10301, 26)
+THIS IS NUMBER  1013
+Request #1013
+(10326, 26)
+THIS IS NUMBER  1014
+Request #1014
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Mar%2F25%2F2008&DateTo=03%2F26%2F2008
+Mar 25 2008
+THIS IS NUMBER  1015
+Request #1015
+(10348, 26)
+THIS IS NUMBER  1016
+Request #1016
+(10363, 26)
+THIS IS NUMBER  1017
+Request #1017
+(10379, 26)
+THIS IS NUMBER  1018
+Request #1018
+(10404, 26)
+THIS IS NUMBER  1019
+Request #1019
+(10422, 26)
+THIS IS NUMBER  1020
+Request #1020
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Feb%2F4%2F2008&DateTo=02%2F05%2F2008
+Feb 4 2008
+THIS IS NUMBER  1021
+Request #1021
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Feb%2F29%2F2008&DateTo=03%2F01%2F2008
+Feb 29 2008
+THIS IS NUMBER  1022
+Request #1022
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Jan%2F5%2F2008&DateTo=01%2F06%2F2008
+Jan 5 2008
+THIS IS NUMBER  1023
+Request #1023
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Nov%2F26%2F2007&DateTo=11%2F27%2F2007
+Nov 26 2007
+THIS IS NUMBER  1024
+Request #1024
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Nov%2F7%2F2007&DateTo=11%2F08%2F2007
+Nov 7 2007
+THIS IS NUMBER  1025
+Request #1025
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Feb%2F24%2F2008&DateTo=02%2F25%2F2008
+Feb 24 2008
+THIS IS NUMBER  1026
+Request #1026
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Jan%2F25%2F2008&DateTo=01%2F26%2F2008
+Jan 25 2008
+THIS IS NUMBER  1027
+Request #1027
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Dec%2F6%2F2007&DateTo=12%2F07%2F2007
+Dec 6 2007
+THIS IS NUMBER  1028
+Request #1028
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Jan%2F27%2F2008&DateTo=01%2F28%2F2008
+Jan 27 2008
+THIS IS NUMBER  1029
+Request #1029
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Feb%2F1%2F2008&DateTo=02%2F02%2F2008
+Feb 1 2008
+THIS IS NUMBER  1030
+Request #1030
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Nov%2F9%2F2007&DateTo=11%2F10%2F2007
+Nov 9 2007
+THIS IS NUMBER  1031
+Request #1031
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Jan%2F30%2F2008&DateTo=01%2F31%2F2008
+Jan 30 2008
+THIS IS NUMBER  1032
+Request #1032
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Mar%2F29%2F2008&DateTo=03%2F30%2F2008
+Mar 29 2008
+THIS IS NUMBER  1033
+Request #1033
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Nov%2F21%2F2007&DateTo=11%2F22%2F2007
+Nov 21 2007
+THIS IS NUMBER  1034
+Request #1034
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Nov%2F10%2F2007&DateTo=11%2F11%2F2007
+Nov 10 2007
+THIS IS NUMBER  1035
+Request #1035
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Feb%2F6%2F2008&DateTo=02%2F07%2F2008
+Feb 6 2008
+THIS IS NUMBER  1036
+Request #1036
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Dec%2F25%2F2007&DateTo=12%2F26%2F2007
+Dec 25 2007
+THIS IS NUMBER  1037
+Request #1037
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Dec%2F30%2F2007&DateTo=12%2F31%2F2007
+Dec 30 2007
+THIS IS NUMBER  1038
+Request #1038
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Mar%2F18%2F2008&DateTo=03%2F19%2F2008
+Mar 18 2008
+THIS IS NUMBER  1039
+Request #1039
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Dec%2F21%2F2007&DateTo=12%2F22%2F2007
+Dec 21 2007
+THIS IS NUMBER  1040
+Request #1040
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Apr%2F15%2F2008&DateTo=04%2F16%2F2008
+Apr 15 2008
+THIS IS NUMBER  1041
+Request #1041
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Apr%2F6%2F2008&DateTo=04%2F07%2F2008
+Apr 6 2008
+THIS IS NUMBER  1042
+Request #1042
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Dec%2F14%2F2007&DateTo=12%2F15%2F2007
+Dec 14 2007
+THIS IS NUMBER  1043
+Request #1043
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Dec%2F19%2F2007&DateTo=12%2F20%2F2007
+Dec 19 2007
+THIS IS NUMBER  1044
+Request #1044
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Dec%2F17%2F2007&DateTo=12%2F18%2F2007
+Dec 17 2007
+THIS IS NUMBER  1045
+Request #1045
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Dec%2F28%2F2007&DateTo=12%2F29%2F2007
+Dec 28 2007
+THIS IS NUMBER  1046
+Request #1046
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Apr%2F3%2F2008&DateTo=04%2F04%2F2008
+Apr 3 2008
+THIS IS NUMBER  1047
+Request #1047
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Mar%2F4%2F2008&DateTo=03%2F05%2F2008
+Mar 4 2008
+THIS IS NUMBER  1048
+Request #1048
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Apr%2F8%2F2008&DateTo=04%2F09%2F2008
+Apr 8 2008
+THIS IS NUMBER  1049
+Request #1049
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Dec%2F12%2F2007&DateTo=12%2F13%2F2007
+Dec 12 2007
+THIS IS NUMBER  1050
+Request #1050
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Apr%2F12%2F2008&DateTo=04%2F13%2F2008
+Apr 12 2008
+THIS IS NUMBER  1051
+Request #1051
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612757&DateFrom=Mar%2F15%2F2008&DateTo=03%2F16%2F2008
+Mar 15 2008
+THIS IS NUMBER  1052
+Request #1052
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Jan%2F10%2F2008&DateTo=01%2F11%2F2008
+Jan 10 2008
+THIS IS NUMBER  1053
+Request #1053
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Dec%2F1%2F2007&DateTo=12%2F02%2F2007
+Dec 1 2007
+THIS IS NUMBER  1054
+Request #1054
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Apr%2F11%2F2008&DateTo=04%2F12%2F2008
+Apr 11 2008
+THIS IS NUMBER  1055
+Request #1055
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Nov%2F9%2F2007&DateTo=11%2F10%2F2007
+Nov 9 2007
+THIS IS NUMBER  1056
+Request #1056
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Jan%2F12%2F2008&DateTo=01%2F13%2F2008
+Jan 12 2008
+THIS IS NUMBER  1057
+Request #1057
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Nov%2F16%2F2007&DateTo=11%2F17%2F2007
+Nov 16 2007
+THIS IS NUMBER  1058
+Request #1058
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Dec%2F23%2F2007&DateTo=12%2F24%2F2007
+Dec 23 2007
+THIS IS NUMBER  1059
+Request #1059
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Jan%2F14%2F2008&DateTo=01%2F15%2F2008
+Jan 14 2008
+THIS IS NUMBER  1060
+Request #1060
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Nov%2F28%2F2007&DateTo=11%2F29%2F2007
+Nov 28 2007
+THIS IS NUMBER  1061
+Request #1061
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Jan%2F8%2F2008&DateTo=01%2F09%2F2008
+Jan 8 2008
+THIS IS NUMBER  1062
+Request #1062
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Nov%2F6%2F2007&DateTo=11%2F07%2F2007
+Nov 6 2007
+THIS IS NUMBER  1063
+Request #1063
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Apr%2F14%2F2008&DateTo=04%2F15%2F2008
+Apr 14 2008
+THIS IS NUMBER  1064
+Request #1064
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Apr%2F12%2F2008&DateTo=04%2F13%2F2008
+Apr 12 2008
+THIS IS NUMBER  1065
+Request #1065
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Apr%2F6%2F2008&DateTo=04%2F07%2F2008
+Apr 6 2008
+THIS IS NUMBER  1066
+Request #1066
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Dec%2F26%2F2007&DateTo=12%2F27%2F2007
+Dec 26 2007
+THIS IS NUMBER  1067
+Request #1067
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Feb%2F1%2F2008&DateTo=02%2F02%2F2008
+Feb 1 2008
+THIS IS NUMBER  1068
+Request #1068
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Nov%2F10%2F2007&DateTo=11%2F11%2F2007
+Nov 10 2007
+THIS IS NUMBER  1069
+Request #1069
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Apr%2F1%2F2008&DateTo=04%2F02%2F2008
+Apr 1 2008
+THIS IS NUMBER  1070
+Request #1070
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Dec%2F10%2F2007&DateTo=12%2F11%2F2007
+Dec 10 2007
+THIS IS NUMBER  1071
+Request #1071
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Nov%2F20%2F2007&DateTo=11%2F21%2F2007
+Nov 20 2007
+THIS IS NUMBER  1072
+Request #1072
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Dec%2F7%2F2007&DateTo=12%2F08%2F2007
+Dec 7 2007
+THIS IS NUMBER  1073
+Request #1073
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Dec%2F30%2F2007&DateTo=12%2F31%2F2007
+Dec 30 2007
+THIS IS NUMBER  1074
+Request #1074
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Mar%2F7%2F2008&DateTo=03%2F08%2F2008
+Mar 7 2008
+THIS IS NUMBER  1075
+Request #1075
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Jan%2F30%2F2008&DateTo=01%2F31%2F2008
+Jan 30 2008
+THIS IS NUMBER  1076
+Request #1076
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Feb%2F8%2F2008&DateTo=02%2F09%2F2008
+Feb 8 2008
+THIS IS NUMBER  1077
+Request #1077
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Mar%2F26%2F2008&DateTo=03%2F27%2F2008
+Mar 26 2008
+THIS IS NUMBER  1078
+Request #1078
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Mar%2F28%2F2008&DateTo=03%2F29%2F2008
+Mar 28 2008
+THIS IS NUMBER  1079
+Request #1079
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Feb%2F20%2F2008&DateTo=02%2F21%2F2008
+Feb 20 2008
+THIS IS NUMBER  1080
+Request #1080
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Mar%2F4%2F2008&DateTo=03%2F05%2F2008
+Mar 4 2008
+THIS IS NUMBER  1081
+Request #1081
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Feb%2F6%2F2008&DateTo=02%2F07%2F2008
+Feb 6 2008
+THIS IS NUMBER  1082
+Request #1082
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Nov%2F26%2F2007&DateTo=11%2F27%2F2007
+Nov 26 2007
+THIS IS NUMBER  1083
+Request #1083
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Dec%2F4%2F2007&DateTo=12%2F05%2F2007
+Dec 4 2007
+THIS IS NUMBER  1084
+Request #1084
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Feb%2F2%2F2008&DateTo=02%2F03%2F2008
+Feb 2 2008
+THIS IS NUMBER  1085
+Request #1085
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Mar%2F16%2F2008&DateTo=03%2F17%2F2008
+Mar 16 2008
+THIS IS NUMBER  1086
+Request #1086
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Mar%2F13%2F2008&DateTo=03%2F14%2F2008
+Mar 13 2008
+THIS IS NUMBER  1087
+Request #1087
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Mar%2F2%2F2008&DateTo=03%2F03%2F2008
+Mar 2 2008
+THIS IS NUMBER  1088
+Request #1088
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Dec%2F28%2F2007&DateTo=12%2F29%2F2007
+Dec 28 2007
+THIS IS NUMBER  1089
+Request #1089
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Nov%2F18%2F2007&DateTo=11%2F19%2F2007
+Nov 18 2007
+THIS IS NUMBER  1090
+Request #1090
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Mar%2F18%2F2008&DateTo=03%2F19%2F2008
+Mar 18 2008
+THIS IS NUMBER  1091
+Request #1091
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Jan%2F22%2F2008&DateTo=01%2F23%2F2008
+Jan 22 2008
+THIS IS NUMBER  1092
+Request #1092
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612758&DateFrom=Apr%2F3%2F2008&DateTo=04%2F04%2F2008
+Apr 3 2008
+THIS IS NUMBER  1093
+Request #1093
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Apr%2F9%2F2008&DateTo=04%2F10%2F2008
+Apr 9 2008
+THIS IS NUMBER  1094
+Request #1094
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=May%2F8%2F2008&DateTo=05%2F09%2F2008
+May 8 2008
+THIS IS NUMBER  1095
+Request #1095
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Nov%2F11%2F2007&DateTo=11%2F12%2F2007
+Nov 11 2007
+THIS IS NUMBER  1096
+Request #1096
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=May%2F11%2F2008&DateTo=05%2F12%2F2008
+May 11 2008
+THIS IS NUMBER  1097
+Request #1097
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Nov%2F23%2F2007&DateTo=11%2F24%2F2007
+Nov 23 2007
+THIS IS NUMBER  1098
+Request #1098
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Dec%2F28%2F2007&DateTo=12%2F29%2F2007
+Dec 28 2007
+THIS IS NUMBER  1099
+Request #1099
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Nov%2F13%2F2007&DateTo=11%2F14%2F2007
+Nov 13 2007
+THIS IS NUMBER  1100
+Request #1100
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Nov%2F28%2F2007&DateTo=11%2F29%2F2007
+Nov 28 2007
+THIS IS NUMBER  1101
+Request #1101
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Nov%2F16%2F2007&DateTo=11%2F17%2F2007
+Nov 16 2007
+THIS IS NUMBER  1102
+Request #1102
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Feb%2F28%2F2008&DateTo=02%2F29%2F2008
+Feb 28 2008
+THIS IS NUMBER  1103
+Request #1103
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Feb%2F25%2F2008&DateTo=02%2F26%2F2008
+Feb 25 2008
+THIS IS NUMBER  1104
+Request #1104
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Apr%2F1%2F2008&DateTo=04%2F02%2F2008
+Apr 1 2008
+THIS IS NUMBER  1105
+Request #1105
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=May%2F27%2F2008&DateTo=05%2F28%2F2008
+May 27 2008
+THIS IS NUMBER  1106
+Request #1106
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Dec%2F26%2F2007&DateTo=12%2F27%2F2007
+Dec 26 2007
+THIS IS NUMBER  1107
+Request #1107
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Feb%2F23%2F2008&DateTo=02%2F24%2F2008
+Feb 23 2008
+THIS IS NUMBER  1108
+Request #1108
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Nov%2F21%2F2007&DateTo=11%2F22%2F2007
+Nov 21 2007
+THIS IS NUMBER  1109
+Request #1109
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=May%2F15%2F2008&DateTo=05%2F16%2F2008
+May 15 2008
+THIS IS NUMBER  1110
+Request #1110
+(10442, 26)
+THIS IS NUMBER  1111
+Request #1111
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=May%2F25%2F2008&DateTo=05%2F26%2F2008
+May 25 2008
+THIS IS NUMBER  1112
+Request #1112
+(10465, 26)
+THIS IS NUMBER  1113
+Request #1113
+(10486, 26)
+THIS IS NUMBER  1114
+Request #1114
+(10507, 26)
+THIS IS NUMBER  1115
+Request #1115
+(10532, 26)
+THIS IS NUMBER  1116
+Request #1116
+(10557, 26)
+THIS IS NUMBER  1117
+Request #1117
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Apr%2F29%2F2008&DateTo=04%2F30%2F2008
+Apr 29 2008
+THIS IS NUMBER  1118
+Request #1118
+(10577, 26)
+THIS IS NUMBER  1119
+Request #1119
+(10597, 26)
+THIS IS NUMBER  1120
+Request #1120
+(10622, 26)
+THIS IS NUMBER  1121
+Request #1121
+(10644, 26)
+THIS IS NUMBER  1122
+Request #1122
+(10662, 26)
+THIS IS NUMBER  1123
+Request #1123
+(10687, 26)
+THIS IS NUMBER  1124
+Request #1124
+(10712, 26)
+THIS IS NUMBER  1125
+Request #1125
+(10729, 26)
+THIS IS NUMBER  1126
+Request #1126
+(10751, 26)
+THIS IS NUMBER  1127
+Request #1127
+(10772, 26)
+THIS IS NUMBER  1128
+Request #1128
+(10797, 26)
+THIS IS NUMBER  1129
+Request #1129
+(10822, 26)
+THIS IS NUMBER  1130
+Request #1130
+(10844, 26)
+THIS IS NUMBER  1131
+Request #1131
+(10865, 26)
+THIS IS NUMBER  1132
+Request #1132
+(10882, 26)
+THIS IS NUMBER  1133
+Request #1133
+(10903, 26)
+THIS IS NUMBER  1134
+Request #1134
+(10920, 26)
+THIS IS NUMBER  1135
+Request #1135
+(10938, 26)
+THIS IS NUMBER  1136
+Request #1136
+(10959, 26)
+THIS IS NUMBER  1137
+Request #1137
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Apr%2F11%2F2008&DateTo=04%2F12%2F2008
+Apr 11 2008
+THIS IS NUMBER  1138
+Request #1138
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Feb%2F19%2F2008&DateTo=02%2F20%2F2008
+Feb 19 2008
+THIS IS NUMBER  1139
+Request #1139
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Jan%2F10%2F2008&DateTo=01%2F11%2F2008
+Jan 10 2008
+THIS IS NUMBER  1140
+Request #1140
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Apr%2F19%2F2008&DateTo=04%2F20%2F2008
+Apr 19 2008
+THIS IS NUMBER  1141
+Request #1141
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612759&DateFrom=Apr%2F22%2F2008&DateTo=04%2F23%2F2008
+Apr 22 2008
+THIS IS NUMBER  1142
+Request #1142
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Dec%2F27%2F2007&DateTo=12%2F28%2F2007
+Dec 27 2007
+THIS IS NUMBER  1143
+Request #1143
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Dec%2F2%2F2007&DateTo=12%2F03%2F2007
+Dec 2 2007
+THIS IS NUMBER  1144
+Request #1144
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Mar%2F26%2F2008&DateTo=03%2F27%2F2008
+Mar 26 2008
+THIS IS NUMBER  1145
+Request #1145
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Mar%2F14%2F2008&DateTo=03%2F15%2F2008
+Mar 14 2008
+THIS IS NUMBER  1146
+Request #1146
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Mar%2F24%2F2008&DateTo=03%2F25%2F2008
+Mar 24 2008
+THIS IS NUMBER  1147
+Request #1147
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Feb%2F13%2F2008&DateTo=02%2F14%2F2008
+Feb 13 2008
+THIS IS NUMBER  1148
+Request #1148
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Mar%2F19%2F2008&DateTo=03%2F20%2F2008
+Mar 19 2008
+THIS IS NUMBER  1149
+Request #1149
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Dec%2F19%2F2007&DateTo=12%2F20%2F2007
+Dec 19 2007
+THIS IS NUMBER  1150
+Request #1150
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Mar%2F28%2F2008&DateTo=03%2F29%2F2008
+Mar 28 2008
+THIS IS NUMBER  1151
+Request #1151
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Apr%2F13%2F2008&DateTo=04%2F14%2F2008
+Apr 13 2008
+THIS IS NUMBER  1152
+Request #1152
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Feb%2F4%2F2008&DateTo=02%2F05%2F2008
+Feb 4 2008
+THIS IS NUMBER  1153
+Request #1153
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Feb%2F2%2F2008&DateTo=02%2F03%2F2008
+Feb 2 2008
+THIS IS NUMBER  1154
+Request #1154
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Dec%2F5%2F2007&DateTo=12%2F06%2F2007
+Dec 5 2007
+THIS IS NUMBER  1155
+Request #1155
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Apr%2F2%2F2008&DateTo=04%2F03%2F2008
+Apr 2 2008
+THIS IS NUMBER  1156
+Request #1156
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Nov%2F30%2F2007&DateTo=12%2F01%2F2007
+Nov 30 2007
+THIS IS NUMBER  1157
+Request #1157
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Dec%2F29%2F2007&DateTo=12%2F30%2F2007
+Dec 29 2007
+THIS IS NUMBER  1158
+Request #1158
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Nov%2F28%2F2007&DateTo=11%2F29%2F2007
+Nov 28 2007
+THIS IS NUMBER  1159
+Request #1159
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Dec%2F7%2F2007&DateTo=12%2F08%2F2007
+Dec 7 2007
+THIS IS NUMBER  1160
+Request #1160
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Dec%2F21%2F2007&DateTo=12%2F22%2F2007
+Dec 21 2007
+THIS IS NUMBER  1161
+Request #1161
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Nov%2F25%2F2007&DateTo=11%2F26%2F2007
+Nov 25 2007
+THIS IS NUMBER  1162
+Request #1162
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Apr%2F6%2F2008&DateTo=04%2F07%2F2008
+Apr 6 2008
+THIS IS NUMBER  1163
+Request #1163
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Mar%2F30%2F2008&DateTo=03%2F31%2F2008
+Mar 30 2008
+THIS IS NUMBER  1164
+Request #1164
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Apr%2F4%2F2008&DateTo=04%2F05%2F2008
+Apr 4 2008
+THIS IS NUMBER  1165
+Request #1165
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Nov%2F23%2F2007&DateTo=11%2F24%2F2007
+Nov 23 2007
+THIS IS NUMBER  1166
+Request #1166
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Jan%2F31%2F2008&DateTo=02%2F01%2F2008
+Jan 31 2008
+THIS IS NUMBER  1167
+Request #1167
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Jan%2F29%2F2008&DateTo=01%2F30%2F2008
+Jan 29 2008
+THIS IS NUMBER  1168
+Request #1168
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Jan%2F27%2F2008&DateTo=01%2F28%2F2008
+Jan 27 2008
+THIS IS NUMBER  1169
+Request #1169
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Jan%2F25%2F2008&DateTo=01%2F26%2F2008
+Jan 25 2008
+THIS IS NUMBER  1170
+Request #1170
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Jan%2F23%2F2008&DateTo=01%2F24%2F2008
+Jan 23 2008
+THIS IS NUMBER  1171
+Request #1171
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Jan%2F14%2F2008&DateTo=01%2F15%2F2008
+Jan 14 2008
+THIS IS NUMBER  1172
+Request #1172
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Nov%2F1%2F2007&DateTo=11%2F02%2F2007
+Nov 1 2007
+THIS IS NUMBER  1173
+Request #1173
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Jan%2F11%2F2008&DateTo=01%2F12%2F2008
+Jan 11 2008
+THIS IS NUMBER  1174
+Request #1174
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Nov%2F7%2F2007&DateTo=11%2F08%2F2007
+Nov 7 2007
+THIS IS NUMBER  1175
+Request #1175
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Nov%2F9%2F2007&DateTo=11%2F10%2F2007
+Nov 9 2007
+THIS IS NUMBER  1176
+Request #1176
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Nov%2F11%2F2007&DateTo=11%2F12%2F2007
+Nov 11 2007
+THIS IS NUMBER  1177
+Request #1177
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Dec%2F31%2F2007&DateTo=01%2F01%2F2008
+Dec 31 2007
+THIS IS NUMBER  1178
+Request #1178
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Feb%2F27%2F2008&DateTo=02%2F28%2F2008
+Feb 27 2008
+THIS IS NUMBER  1179
+Request #1179
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Feb%2F22%2F2008&DateTo=02%2F23%2F2008
+Feb 22 2008
+THIS IS NUMBER  1180
+Request #1180
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Feb%2F24%2F2008&DateTo=02%2F25%2F2008
+Feb 24 2008
+THIS IS NUMBER  1181
+Request #1181
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Feb%2F29%2F2008&DateTo=03%2F01%2F2008
+Feb 29 2008
+THIS IS NUMBER  1182
+Request #1182
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612760&DateFrom=Feb%2F19%2F2008&DateTo=02%2F20%2F2008
+Feb 19 2008
+THIS IS NUMBER  1183
+Request #1183
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Feb%2F11%2F2008&DateTo=02%2F12%2F2008
+Feb 11 2008
+THIS IS NUMBER  1184
+Request #1184
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Apr%2F9%2F2008&DateTo=04%2F10%2F2008
+Apr 9 2008
+THIS IS NUMBER  1185
+Request #1185
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Dec%2F5%2F2007&DateTo=12%2F06%2F2007
+Dec 5 2007
+THIS IS NUMBER  1186
+Request #1186
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Feb%2F13%2F2008&DateTo=02%2F14%2F2008
+Feb 13 2008
+THIS IS NUMBER  1187
+Request #1187
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Oct%2F31%2F2007&DateTo=11%2F01%2F2007
+Oct 31 2007
+THIS IS NUMBER  1188
+Request #1188
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Jan%2F18%2F2008&DateTo=01%2F19%2F2008
+Jan 18 2008
+THIS IS NUMBER  1189
+Request #1189
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Jan%2F16%2F2008&DateTo=01%2F17%2F2008
+Jan 16 2008
+THIS IS NUMBER  1190
+Request #1190
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Nov%2F28%2F2007&DateTo=11%2F29%2F2007
+Nov 28 2007
+THIS IS NUMBER  1191
+Request #1191
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Dec%2F3%2F2007&DateTo=12%2F04%2F2007
+Dec 3 2007
+THIS IS NUMBER  1192
+Request #1192
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Jan%2F13%2F2008&DateTo=01%2F14%2F2008
+Jan 13 2008
+THIS IS NUMBER  1193
+Request #1193
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Apr%2F11%2F2008&DateTo=04%2F12%2F2008
+Apr 11 2008
+THIS IS NUMBER  1194
+Request #1194
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Mar%2F9%2F2008&DateTo=03%2F10%2F2008
+Mar 9 2008
+THIS IS NUMBER  1195
+Request #1195
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Apr%2F4%2F2008&DateTo=04%2F05%2F2008
+Apr 4 2008
+THIS IS NUMBER  1196
+Request #1196
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Mar%2F26%2F2008&DateTo=03%2F27%2F2008
+Mar 26 2008
+THIS IS NUMBER  1197
+Request #1197
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Mar%2F23%2F2008&DateTo=03%2F24%2F2008
+Mar 23 2008
+THIS IS NUMBER  1198
+Request #1198
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Feb%2F20%2F2008&DateTo=02%2F21%2F2008
+Feb 20 2008
+THIS IS NUMBER  1199
+Request #1199
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Dec%2F9%2F2007&DateTo=12%2F10%2F2007
+Dec 9 2007
+THIS IS NUMBER  1200
+Request #1200
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Mar%2F28%2F2008&DateTo=03%2F29%2F2008
+Mar 28 2008
+THIS IS NUMBER  1201
+Request #1201
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Nov%2F18%2F2007&DateTo=11%2F19%2F2007
+Nov 18 2007
+THIS IS NUMBER  1202
+Request #1202
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Jan%2F30%2F2008&DateTo=01%2F31%2F2008
+Jan 30 2008
+THIS IS NUMBER  1203
+Request #1203
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Mar%2F30%2F2008&DateTo=03%2F31%2F2008
+Mar 30 2008
+THIS IS NUMBER  1204
+Request #1204
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Feb%2F29%2F2008&DateTo=03%2F01%2F2008
+Feb 29 2008
+THIS IS NUMBER  1205
+Request #1205
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Dec%2F12%2F2007&DateTo=12%2F13%2F2007
+Dec 12 2007
+THIS IS NUMBER  1206
+Request #1206
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Nov%2F30%2F2007&DateTo=12%2F01%2F2007
+Nov 30 2007
+THIS IS NUMBER  1207
+Request #1207
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Mar%2F19%2F2008&DateTo=03%2F20%2F2008
+Mar 19 2008
+THIS IS NUMBER  1208
+Request #1208
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Jan%2F25%2F2008&DateTo=01%2F26%2F2008
+Jan 25 2008
+THIS IS NUMBER  1209
+Request #1209
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Jan%2F9%2F2008&DateTo=01%2F10%2F2008
+Jan 9 2008
+THIS IS NUMBER  1210
+Request #1210
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Feb%2F1%2F2008&DateTo=02%2F02%2F2008
+Feb 1 2008
+THIS IS NUMBER  1211
+Request #1211
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Nov%2F7%2F2007&DateTo=11%2F08%2F2007
+Nov 7 2007
+THIS IS NUMBER  1212
+Request #1212
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Nov%2F16%2F2007&DateTo=11%2F17%2F2007
+Nov 16 2007
+THIS IS NUMBER  1213
+Request #1213
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Feb%2F8%2F2008&DateTo=02%2F09%2F2008
+Feb 8 2008
+THIS IS NUMBER  1214
+Request #1214
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Apr%2F14%2F2008&DateTo=04%2F15%2F2008
+Apr 14 2008
+THIS IS NUMBER  1215
+Request #1215
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Nov%2F25%2F2007&DateTo=11%2F26%2F2007
+Nov 25 2007
+THIS IS NUMBER  1216
+Request #1216
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Apr%2F24%2F2008&DateTo=04%2F25%2F2008
+Apr 24 2008
+THIS IS NUMBER  1217
+Request #1217
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Nov%2F4%2F2007&DateTo=11%2F05%2F2007
+Nov 4 2007
+THIS IS NUMBER  1218
+Request #1218
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Feb%2F27%2F2008&DateTo=02%2F28%2F2008
+Feb 27 2008
+THIS IS NUMBER  1219
+Request #1219
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Dec%2F16%2F2007&DateTo=12%2F17%2F2007
+Dec 16 2007
+THIS IS NUMBER  1220
+Request #1220
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Feb%2F24%2F2008&DateTo=02%2F25%2F2008
+Feb 24 2008
+THIS IS NUMBER  1221
+Request #1221
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Jan%2F6%2F2008&DateTo=01%2F07%2F2008
+Jan 6 2008
+THIS IS NUMBER  1222
+Request #1222
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Jan%2F4%2F2008&DateTo=01%2F05%2F2008
+Jan 4 2008
+THIS IS NUMBER  1223
+Request #1223
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Mar%2F7%2F2008&DateTo=03%2F08%2F2008
+Mar 7 2008
+THIS IS NUMBER  1224
+Request #1224
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Nov%2F14%2F2007&DateTo=11%2F15%2F2007
+Nov 14 2007
+THIS IS NUMBER  1225
+Request #1225
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612761&DateFrom=Apr%2F26%2F2008&DateTo=04%2F27%2F2008
+Apr 26 2008
+THIS IS NUMBER  1226
+Request #1226
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Apr%2F24%2F2008&DateTo=04%2F25%2F2008
+Apr 24 2008
+THIS IS NUMBER  1227
+Request #1227
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Mar%2F22%2F2008&DateTo=03%2F23%2F2008
+Mar 22 2008
+THIS IS NUMBER  1228
+Request #1228
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Dec%2F11%2F2007&DateTo=12%2F12%2F2007
+Dec 11 2007
+THIS IS NUMBER  1229
+Request #1229
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Dec%2F26%2F2007&DateTo=12%2F27%2F2007
+Dec 26 2007
+THIS IS NUMBER  1230
+Request #1230
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Apr%2F14%2F2008&DateTo=04%2F15%2F2008
+Apr 14 2008
+THIS IS NUMBER  1231
+Request #1231
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Feb%2F27%2F2008&DateTo=02%2F28%2F2008
+Feb 27 2008
+THIS IS NUMBER  1232
+Request #1232
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Mar%2F8%2F2008&DateTo=03%2F09%2F2008
+Mar 8 2008
+THIS IS NUMBER  1233
+Request #1233
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Mar%2F5%2F2008&DateTo=03%2F06%2F2008
+Mar 5 2008
+THIS IS NUMBER  1234
+Request #1234
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Apr%2F12%2F2008&DateTo=04%2F13%2F2008
+Apr 12 2008
+THIS IS NUMBER  1235
+Request #1235
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Nov%2F19%2F2007&DateTo=11%2F20%2F2007
+Nov 19 2007
+THIS IS NUMBER  1236
+Request #1236
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Mar%2F3%2F2008&DateTo=03%2F04%2F2008
+Mar 3 2008
+THIS IS NUMBER  1237
+Request #1237
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Feb%2F9%2F2008&DateTo=02%2F10%2F2008
+Feb 9 2008
+THIS IS NUMBER  1238
+Request #1238
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Mar%2F17%2F2008&DateTo=03%2F18%2F2008
+Mar 17 2008
+THIS IS NUMBER  1239
+Request #1239
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Dec%2F15%2F2007&DateTo=12%2F16%2F2007
+Dec 15 2007
+THIS IS NUMBER  1240
+Request #1240
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Apr%2F26%2F2008&DateTo=04%2F27%2F2008
+Apr 26 2008
+THIS IS NUMBER  1241
+Request #1241
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Mar%2F20%2F2008&DateTo=03%2F21%2F2008
+Mar 20 2008
+THIS IS NUMBER  1242
+Request #1242
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Nov%2F7%2F2007&DateTo=11%2F08%2F2007
+Nov 7 2007
+THIS IS NUMBER  1243
+Request #1243
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=May%2F16%2F2008&DateTo=05%2F17%2F2008
+May 16 2008
+THIS IS NUMBER  1244
+Request #1244
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Dec%2F29%2F2007&DateTo=12%2F30%2F2007
+Dec 29 2007
+THIS IS NUMBER  1245
+Request #1245
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Jan%2F8%2F2008&DateTo=01%2F09%2F2008
+Jan 8 2008
+THIS IS NUMBER  1246
+Request #1246
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Nov%2F3%2F2007&DateTo=11%2F04%2F2007
+Nov 3 2007
+THIS IS NUMBER  1247
+Request #1247
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Mar%2F25%2F2008&DateTo=03%2F26%2F2008
+Mar 25 2008
+THIS IS NUMBER  1248
+Request #1248
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Feb%2F19%2F2008&DateTo=02%2F20%2F2008
+Feb 19 2008
+THIS IS NUMBER  1249
+Request #1249
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Jan%2F2%2F2008&DateTo=01%2F03%2F2008
+Jan 2 2008
+THIS IS NUMBER  1250
+Request #1250
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Nov%2F23%2F2007&DateTo=11%2F24%2F2007
+Nov 23 2007
+THIS IS NUMBER  1251
+Request #1251
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Dec%2F31%2F2007&DateTo=01%2F01%2F2008
+Dec 31 2007
+THIS IS NUMBER  1252
+Request #1252
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=May%2F2%2F2008&DateTo=05%2F03%2F2008
+May 2 2008
+THIS IS NUMBER  1253
+Request #1253
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Nov%2F30%2F2007&DateTo=12%2F01%2F2007
+Nov 30 2007
+THIS IS NUMBER  1254
+Request #1254
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Nov%2F12%2F2007&DateTo=11%2F13%2F2007
+Nov 12 2007
+THIS IS NUMBER  1255
+Request #1255
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=May%2F9%2F2008&DateTo=05%2F10%2F2008
+May 9 2008
+THIS IS NUMBER  1256
+Request #1256
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=May%2F11%2F2008&DateTo=05%2F12%2F2008
+May 11 2008
+THIS IS NUMBER  1257
+Request #1257
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Nov%2F10%2F2007&DateTo=11%2F11%2F2007
+Nov 10 2007
+THIS IS NUMBER  1258
+Request #1258
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Jan%2F10%2F2008&DateTo=01%2F11%2F2008
+Jan 10 2008
+THIS IS NUMBER  1259
+Request #1259
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Jan%2F25%2F2008&DateTo=01%2F26%2F2008
+Jan 25 2008
+THIS IS NUMBER  1260
+Request #1260
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Mar%2F28%2F2008&DateTo=03%2F29%2F2008
+Mar 28 2008
+THIS IS NUMBER  1261
+Request #1261
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Feb%2F4%2F2008&DateTo=02%2F05%2F2008
+Feb 4 2008
+THIS IS NUMBER  1262
+Request #1262
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Jan%2F30%2F2008&DateTo=01%2F31%2F2008
+Jan 30 2008
+THIS IS NUMBER  1263
+Request #1263
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Feb%2F23%2F2008&DateTo=02%2F24%2F2008
+Feb 23 2008
+THIS IS NUMBER  1264
+Request #1264
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Mar%2F31%2F2008&DateTo=04%2F01%2F2008
+Mar 31 2008
+THIS IS NUMBER  1265
+Request #1265
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Jan%2F28%2F2008&DateTo=01%2F29%2F2008
+Jan 28 2008
+THIS IS NUMBER  1266
+Request #1266
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Apr%2F4%2F2008&DateTo=04%2F05%2F2008
+Apr 4 2008
+THIS IS NUMBER  1267
+Request #1267
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Jan%2F18%2F2008&DateTo=01%2F19%2F2008
+Jan 18 2008
+THIS IS NUMBER  1268
+Request #1268
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Dec%2F3%2F2007&DateTo=12%2F04%2F2007
+Dec 3 2007
+THIS IS NUMBER  1269
+Request #1269
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Jan%2F12%2F2008&DateTo=01%2F13%2F2008
+Jan 12 2008
+THIS IS NUMBER  1270
+Request #1270
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Jan%2F14%2F2008&DateTo=01%2F15%2F2008
+Jan 14 2008
+THIS IS NUMBER  1271
+Request #1271
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Nov%2F1%2F2007&DateTo=11%2F02%2F2007
+Nov 1 2007
+THIS IS NUMBER  1272
+Request #1272
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612762&DateFrom=Apr%2F2%2F2008&DateTo=04%2F03%2F2008
+Apr 2 2008
+THIS IS NUMBER  1273
+Request #1273
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=May%2F2%2F2008&DateTo=05%2F03%2F2008
+May 2 2008
+THIS IS NUMBER  1274
+Request #1274
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Feb%2F23%2F2008&DateTo=02%2F24%2F2008
+Feb 23 2008
+THIS IS NUMBER  1275
+Request #1275
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Apr%2F12%2F2008&DateTo=04%2F13%2F2008
+Apr 12 2008
+THIS IS NUMBER  1276
+Request #1276
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Apr%2F14%2F2008&DateTo=04%2F15%2F2008
+Apr 14 2008
+THIS IS NUMBER  1277
+Request #1277
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Apr%2F4%2F2008&DateTo=04%2F05%2F2008
+Apr 4 2008
+THIS IS NUMBER  1278
+Request #1278
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Nov%2F23%2F2007&DateTo=11%2F24%2F2007
+Nov 23 2007
+THIS IS NUMBER  1279
+Request #1279
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Apr%2F2%2F2008&DateTo=04%2F03%2F2008
+Apr 2 2008
+THIS IS NUMBER  1280
+Request #1280
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Apr%2F9%2F2008&DateTo=04%2F10%2F2008
+Apr 9 2008
+THIS IS NUMBER  1281
+Request #1281
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Dec%2F29%2F2007&DateTo=12%2F30%2F2007
+Dec 29 2007
+THIS IS NUMBER  1282
+Request #1282
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Feb%2F3%2F2008&DateTo=02%2F04%2F2008
+Feb 3 2008
+THIS IS NUMBER  1283
+Request #1283
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Jan%2F25%2F2008&DateTo=01%2F26%2F2008
+Jan 25 2008
+THIS IS NUMBER  1284
+Request #1284
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Dec%2F5%2F2007&DateTo=12%2F06%2F2007
+Dec 5 2007
+THIS IS NUMBER  1285
+Request #1285
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Jan%2F21%2F2008&DateTo=01%2F22%2F2008
+Jan 21 2008
+THIS IS NUMBER  1286
+Request #1286
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Jan%2F18%2F2008&DateTo=01%2F19%2F2008
+Jan 18 2008
+THIS IS NUMBER  1287
+Request #1287
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Jan%2F12%2F2008&DateTo=01%2F13%2F2008
+Jan 12 2008
+THIS IS NUMBER  1288
+Request #1288
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Nov%2F17%2F2007&DateTo=11%2F18%2F2007
+Nov 17 2007
+THIS IS NUMBER  1289
+Request #1289
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Nov%2F3%2F2007&DateTo=11%2F04%2F2007
+Nov 3 2007
+THIS IS NUMBER  1290
+Request #1290
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Jan%2F8%2F2008&DateTo=01%2F09%2F2008
+Jan 8 2008
+THIS IS NUMBER  1291
+Request #1291
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Jan%2F6%2F2008&DateTo=01%2F07%2F2008
+Jan 6 2008
+THIS IS NUMBER  1292
+Request #1292
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Jan%2F2%2F2008&DateTo=01%2F03%2F2008
+Jan 2 2008
+THIS IS NUMBER  1293
+Request #1293
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Nov%2F9%2F2007&DateTo=11%2F10%2F2007
+Nov 9 2007
+THIS IS NUMBER  1294
+Request #1294
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Feb%2F1%2F2008&DateTo=02%2F02%2F2008
+Feb 1 2008
+THIS IS NUMBER  1295
+Request #1295
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Nov%2F14%2F2007&DateTo=11%2F15%2F2007
+Nov 14 2007
+THIS IS NUMBER  1296
+Request #1296
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Dec%2F1%2F2007&DateTo=12%2F02%2F2007
+Dec 1 2007
+THIS IS NUMBER  1297
+Request #1297
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Dec%2F7%2F2007&DateTo=12%2F08%2F2007
+Dec 7 2007
+THIS IS NUMBER  1298
+Request #1298
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Jan%2F29%2F2008&DateTo=01%2F30%2F2008
+Jan 29 2008
+THIS IS NUMBER  1299
+Request #1299
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Apr%2F24%2F2008&DateTo=04%2F25%2F2008
+Apr 24 2008
+THIS IS NUMBER  1300
+Request #1300
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Apr%2F27%2F2008&DateTo=04%2F28%2F2008
+Apr 27 2008
+THIS IS NUMBER  1301
+Request #1301
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Dec%2F19%2F2007&DateTo=12%2F20%2F2007
+Dec 19 2007
+THIS IS NUMBER  1302
+Request #1302
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Mar%2F2%2F2008&DateTo=03%2F03%2F2008
+Mar 2 2008
+THIS IS NUMBER  1303
+Request #1303
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Nov%2F20%2F2007&DateTo=11%2F21%2F2007
+Nov 20 2007
+THIS IS NUMBER  1304
+Request #1304
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Mar%2F5%2F2008&DateTo=03%2F06%2F2008
+Mar 5 2008
+THIS IS NUMBER  1305
+Request #1305
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Mar%2F8%2F2008&DateTo=03%2F09%2F2008
+Mar 8 2008
+THIS IS NUMBER  1306
+Request #1306
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Dec%2F15%2F2007&DateTo=12%2F16%2F2007
+Dec 15 2007
+THIS IS NUMBER  1307
+Request #1307
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Mar%2F11%2F2008&DateTo=03%2F12%2F2008
+Mar 11 2008
+THIS IS NUMBER  1308
+Request #1308
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Dec%2F9%2F2007&DateTo=12%2F10%2F2007
+Dec 9 2007
+THIS IS NUMBER  1309
+Request #1309
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Dec%2F11%2F2007&DateTo=12%2F12%2F2007
+Dec 11 2007
+THIS IS NUMBER  1310
+Request #1310
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Mar%2F23%2F2008&DateTo=03%2F24%2F2008
+Mar 23 2008
+THIS IS NUMBER  1311
+Request #1311
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Dec%2F21%2F2007&DateTo=12%2F22%2F2007
+Dec 21 2007
+THIS IS NUMBER  1312
+Request #1312
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Feb%2F6%2F2008&DateTo=02%2F07%2F2008
+Feb 6 2008
+THIS IS NUMBER  1313
+Request #1313
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Mar%2F17%2F2008&DateTo=03%2F18%2F2008
+Mar 17 2008
+THIS IS NUMBER  1314
+Request #1314
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Mar%2F15%2F2008&DateTo=03%2F16%2F2008
+Mar 15 2008
+THIS IS NUMBER  1315
+Request #1315
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Mar%2F13%2F2008&DateTo=03%2F14%2F2008
+Mar 13 2008
+THIS IS NUMBER  1316
+Request #1316
+Error!
+https://stats.nba.com/lineups/traditional/?Season=2007-08&TeamID=1610612764&DateFrom=Feb%2F19%2F2008&DateTo=02%2F20%2F2008
+Feb 19 2008
